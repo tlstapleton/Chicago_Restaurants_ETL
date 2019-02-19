@@ -1,0 +1,1001 @@
+,name,address1,address2,address3,city,state,zip_code,latitude,longitude,review_count,rating,price
+0,Girl & the Goat,809 W Randolph St,,,Chicago,IL,60607,41.884176,-87.6479440725005,7979,4.5,$$$
+1,The Purple Pig,500 N Michigan Ave,,,Chicago,IL,60611,41.89101954311,-87.6245617816512,6538,4.0,$$
+2,Au Cheval,800 W Randolph St,,,Chicago,IL,60607,41.88466,-87.647668,6038,4.5,$$
+3,Wildberry Pancakes and Cafe,130 E Randolph St,,,Chicago,IL,60601,41.884668,-87.62288,6011,4.5,$$
+4,Lou Malnati's Pizzeria,439 N Wells St,,,Chicago,IL,60654,41.890357,-87.633704,5287,4.0,$$
+5,Pequod's Pizzeria,2207 N Clybourn Ave,,,Chicago,IL,60614,41.92187,-87.664486,5195,4.0,$$
+6,Kuma's Corner - Belmont,2900 W Belmont Ave,,,Chicago,IL,60618,41.939640045166,-87.7004470825195,4971,4.0,$$
+7,Portillo's Hot Dogs,100 W Ontario,,,Chicago,IL,60610,41.89366,-87.63157,4810,4.0,$
+8,Quartino Ristorante,626 N State St,,,Chicago,IL,60654,41.8934479679332,-87.6283662020996,4334,4.0,$$
+9,Little Goat Diner,820 W Randolph St,,,Chicago,IL,60607,41.8846460590586,-87.6484126982138,4168,4.0,$$
+10,Smoque BBQ,3800 N Pulaski Rd,Ste 2,,Chicago,IL,60641,41.95021,-87.72795,3960,4.5,$$
+11,Cafe Ba-Ba-Reeba!,2024 N Halsted St,,,Chicago,IL,60614,41.918984,-87.648687,3669,4.0,$$
+12,Xoco,449 N Clark St,,,Chicago,IL,60654,41.890969,-87.630776,3474,4.0,$$
+13,Piece Brewery and Pizzeria,1927 W North Ave,,,Chicago,IL,60622,41.9103256994423,-87.6760850295053,3397,4.0,$$
+14,Eataly,43 E Ohio St,,,Chicago,IL,60611,41.892335432963,-87.6262607945148,3272,4.0,$$
+15,Big Star,1531 N Damen,,,Chicago,IL,60622,41.9093,-87.67718,3100,3.5,$$
+16,The Publican,837 W Fulton Market,,,Chicago,IL,60607,41.886644,-87.648765,3059,4.0,$$$
+17,Crisp,2940 N Broadway Ave,,,Chicago,IL,60657,41.9361214592879,-87.6444210345452,2882,4.5,$$
+18,RPM Italian,52 W Illinois St,,,Chicago,IL,60654,41.8909608540557,-87.6300418625656,2811,4.0,$$$
+19,Three Dots and a Dash,435 N Clark St,Back alley on Hubbard St,,Chicago,IL,60654,41.8904391303273,-87.6306027367742,2786,4.0,$$
+20,The Gage,24 S Michigan Ave,,,Chicago,IL,60603,41.881369,-87.624698,2645,4.0,$$
+21,Sunda,110 W Illinois St,,,Chicago,IL,60654,41.8909469,-87.6317244,2629,4.0,$$$
+22,Giordano's,730 N Rush St,,,Chicago,IL,60611,41.8958755,-87.625643,2453,3.5,$$
+23,Longman & Eagle,2657 N Kedzie Ave,,,Chicago,IL,60647,41.930156679293,-87.707222394898,2307,4.0,$$
+24,Mindy's Hot Chocolate,1747 N Damen Ave,,,Chicago,IL,60647,41.91367,-87.67718,2305,4.0,$$
+25,Chicago Pizza And Oven Grinder Company,2121 N Clark St,,,Chicago,IL,60614,41.92084,-87.63721,2287,4.0,$$
+26,Batter & Berries,2748 N Lincoln Ave,,,Chicago,IL,60614,41.9315605,-87.6577911,2271,4.0,$$
+27,"Joe's Seafood, Prime Steak & Stone Crab",60 E Grand Ave,,,Chicago,IL,60611,41.8918195,-87.6261787,2231,4.5,$$$
+28,Giordano's,130 E Randolph,,,Chicago,IL,60601,41.885165,-87.623753,2222,3.5,$$
+29,Lou Malnati's Pizzeria,805 S State St,,,Chicago,IL,60605,41.871487,-87.6273372,2219,4.0,$$
+30,Tango Sur,3763 N Southport Ave,,,Chicago,IL,60613,41.9507843879442,-87.6639031774259,2213,4.0,$$
+31,Frontera Grill,445 N Clark St,,,Chicago,IL,60654,41.8905699,-87.63079,2139,4.0,$$$
+32,Gino's East - Magnificent Mile,162 E Superior St,,,Chicago,IL,60611,41.89603,-87.62307,2127,3.5,$$
+33,Carnivale,702 W Fulton Market,,,Chicago,IL,60661,41.887075681459,-87.646048728271,2125,4.0,$$$
+34,The Violet Hour,1520 N Damen Ave,,,Chicago,IL,60622,41.909095,-87.677829,2098,4.0,$$
+35,Bavette's Bar & Boeuf,218 W Kinzie St,,,Chicago,IL,60654,41.8892796234574,-87.6348227262497,2094,4.5,$$$
+36,Hopleaf,5148 N Clark St,,,Chicago,IL,60640,41.97581,-87.66874,2033,4.0,$$
+37,Avec,615 W Randolph St,,,Chicago,IL,60661,41.884290441849,-87.6433979433133,2032,4.5,$$$
+38,Café Iberico,737 N Lasalle Blvd,,,Chicago,IL,60654,41.8959660347534,-87.632308046627,2032,3.5,$$
+39,Mercadito,108 W Kinzie St,,,Chicago,IL,60654,41.8894499,-87.63162,2031,3.5,$$
+40,Summer House Santa Monica,1954 N Halsted St,,,Chicago,IL,60614,41.9174315,-87.6486675,2021,4.0,$$
+41,Revolution Brewing,2323 N Milwaukee Ave,,,Chicago,IL,60647,41.92353,-87.698153,2017,4.0,$$
+42,Shaw's Crab House,21 E Hubbard St,,,Chicago,IL,60611,41.8899414,-87.6273507,1996,4.0,$$$
+43,Sapori Trattoria,2701 N Halsted St,,,Chicago,IL,60614,41.93166,-87.64859,1995,4.5,$$
+44,Grand Lux Cafe,600 N Michigan Ave,,,Chicago,IL,60611,41.8931488346022,-87.6245293330658,1993,3.5,$$
+45,Irazú Costa Rican Restaurant,1865 N Milwaukee Ave,,,Chicago,IL,60647,41.9154815714051,-87.6850729673014,1983,4.0,$$
+46,MingHin Cuisine,2168 S Archer Ave,,,Chicago,IL,60616,41.8532564325305,-87.6349026829699,1977,4.0,$$
+47,Alinea,1723 N Halsted St,,,Chicago,IL,60614,41.9134194160823,-87.6482384681229,1975,4.5,$$$$
+48,The Chicago Diner,3411 N Halsted St,,,Chicago,IL,60657,41.94402,-87.64904,1960,4.0,$$
+49,Del Seoul,2568 N Clark St,,,Chicago,IL,60614,41.929444,-87.643016,1947,4.5,$
+50,Yolk South - Loop,1120 S Michigan Ave,,,Chicago,IL,60605,41.8687801,-87.6242249,1941,4.0,$$
+51,DMK Burger Bar,2954 N Sheffield Ave,,,Chicago,IL,60657,41.936055,-87.65411,1909,4.0,$$
+52,Cafecito,7 N Wells,,,Chicago,IL,60606,41.882416,-87.633641,1909,4.5,$
+53,Yolk - Streeterville,355 E Ohio St,,,Chicago,IL,60611,41.8924891,-87.618153,1870,4.0,$$
+54,90 Miles Cuban Café,2540 W Armitage Ave,,,Chicago,IL,60647,41.9176864624023,-87.6918029785156,1806,4.0,$$
+55,Lula Cafe,2537 N Kedzie Blvd,,,Chicago,IL,60647,41.927668036295,-87.706845233929,1802,4.5,$$
+56,Volare Ristorante Italiano,201 E Grand Ave,,,Chicago,IL,60611,41.8915901798304,-87.6225186472213,1799,4.0,$$
+57,The Signature Room at the 95th,875 N Michigan Ave,,,Chicago,IL,60611,41.8987400255629,-87.6228248552254,1770,3.5,$$$
+58,Gibsons Bar & Steakhouse,1028 N Rush St,,,Chicago,IL,60611,41.901374,-87.627962,1757,4.0,$$$
+59,Chicago q,1160 N Dearborn St,,,Chicago,IL,60610,41.903617442969,-87.63023965658,1753,4.0,$$
+60,Bandera Restaurant,535 N Michigan Ave,,,Chicago,IL,60611,41.8919021875965,-87.6236184577346,1727,4.0,$$
+61,Eleven City Diner,1112 S Wabash Ave,,,Chicago,IL,60605,41.86877,-87.62635,1720,3.5,$$
+62,Gene & Jude's,2720 N River Rd,,,River Grove,IL,60171,41.9299660921998,-87.8467229381204,1709,4.0,$
+63,Honey Butter Fried Chicken,3361 N Elston Ave,,,Chicago,IL,60618,41.9426302817062,-87.7027218416333,1709,4.0,$$
+64,Greek Islands Restaurant,200 S Halsted St,,,Chicago,IL,60661,41.87896,-87.64763,1708,4.0,$$
+65,Beatrix River North,519 North Clark Street,,,Chicago,IL,60654,41.891477,-87.6308169,1687,4.0,$$
+66,Tank Noodle,4953 N Broadway,,,Chicago,IL,60640,41.9731100981603,-87.65954048683,1678,4.0,$$
+67,Hub 51,51 W Hubbard St,,,Chicago,IL,60654,41.8899784766276,-87.6296997070312,1678,4.0,$$
+68,RAMEN-SAN,59 W Hubbard St,,,Chicago,IL,60654,41.889798,-87.630293,1668,4.0,$$
+69,Ramen Wasabi,2101 N Milwaukee Ave,,,Chicago,IL,60647,41.9195063,-87.6915015,1648,4.0,$$
+70,m.henry,5707 N Clark St,,,Chicago,IL,60660,41.9856948852539,-87.6688842773438,1636,4.0,$$
+71,Siena Tavern,51 W Kinzie St,,,Chicago,IL,60654,41.8890751,-87.6299699,1627,4.0,$$$
+72,Gilt Bar,230 W Kinzie St,,,Chicago,IL,60654,41.8894,-87.6353199,1563,4.0,$$$
+73,Fogo de Chão Brazilian Steakhouse,661 N Lasalle Blvd,,,Chicago,IL,60654,41.8942208218562,-87.6323306601503,1545,4.5,$$$
+74,The Bongo Room,1470 N Milwaukee Ave,,,Chicago,IL,60622,41.90841,-87.67492,1515,4.0,$$
+75,Gyu-Kaku Japanese BBQ,210 E Ohio St,,,Chicago,IL,60611,41.89281,-87.62223,1489,4.0,$$
+76,Joy Yee Noodle,2139 S China Pl,,,Chicago,IL,60616,41.85412,-87.63391,1488,3.5,$$
+77,Sun Wah Bar-B-Que,5041 N Broadway,,,Chicago,IL,60640,41.97396,-87.65919,1480,4.0,$$
+78,Blackbird,619 W Randolph St,,,Chicago,IL,60661,41.8842918333133,-87.6435537582028,1480,4.0,$$$
+79,Yuzu Sushi & Robata Grill,1751 W Chicago Ave,,,Chicago,IL,60622,41.8956886,-87.6717159,1476,4.0,$$
+80,The Bad Apple,4300 N Lincoln Ave,,,Chicago,IL,60618,41.959767,-87.682822,1463,4.0,$$
+81,The Bongo Room,1152 S Wabash Ave,,,Chicago,IL,60605,41.8677,-87.62647,1460,4.0,$$
+82,Superdawg Drive-In,6363 N Milwaukee Ave,,,Chicago,IL,60646,41.9967775833509,-87.7870387664546,1451,4.0,$
+83,Tweet,5020 N Sheridan Rd,,,Chicago,IL,60640,41.973982,-87.655259,1451,4.0,$$
+84,Chicago Cut Steakhouse,300 N Lasalle,,,Chicago,IL,60654,41.8879719146942,-87.6333480203605,1440,4.0,$$$$
+85,Big Jones,5347 N Clark St,,,Chicago,IL,60640,41.97944,-87.66793,1424,4.0,$$
+86,GT Fish & Oyster,531 N Wells St,,,Chicago,IL,60654,41.8917501928574,-87.6338920000632,1420,4.0,$$$
+87,Weber Grill Restaurant,539 N State St,,,Chicago,IL,60654,41.8918845,-87.6278923,1414,3.5,$$
+88,Cindy's,12 S Michigan Ave,,,Chicago,IL,60603,41.8816894031196,-87.6250061730162,1408,4.0,$$
+89,Green Street Smoked Meats,112 N Green St,,,Chicago,IL,60607,41.883623,-87.648907,1393,4.5,$$
+90,Spacca Napoli,1769 W Sunnyside Ave,,,Chicago,IL,60640,41.963286,-87.673801,1384,4.0,$$
+91,Slurping Turtle,116 W Hubbard St,,,Chicago,IL,60654,41.89009,-87.631935,1373,3.5,$$
+92,Mercat a la Planxa,638 S Michigan Ave,,,Chicago,IL,60605,41.8732738,-87.6244472,1365,4.0,$$$
+93,Geja's Cafe,340 W Armitage Ave,,,Chicago,IL,60614,41.9181498673941,-87.6380681991577,1356,4.0,$$$
+94,Over Easy Cafe,4943 N Damen Ave,,,Chicago,IL,60625,41.9717208,-87.6790834,1341,4.5,$$
+95,Lou Malnati's Pizzeria,1120 N State St,,,Chicago,IL,60610,41.90259525277,-87.6286705209015,1331,4.0,$$
+96,Cantina Laredo,508 N State St,,,Chicago,IL,60654,41.89110716029,-87.6282251997283,1318,3.5,$$
+97,Lao Sze Chuan,2172 S Archer Ave,,,Chicago,IL,60616,41.85328,-87.63495,1311,3.5,$$
+98,Handlebar,2311 W North Ave,,,Chicago,IL,60647,41.9100899,-87.6853,1311,4.0,$$
+99,ZED451,739 N Clark St,,,Chicago,IL,60654,41.896111,-87.63102,1311,4.0,$$$
+100,Pizano's Pizza,61 E Madison St,,,Chicago,IL,60603,41.8819708386668,-87.6255734244467,1302,3.5,$$
+101,Rockit Bar & Grill,22 W Hubbard,,,Chicago,IL,60654,41.890284,-87.62895,1292,3.5,$$
+102,Boka,1729 N Halsted St,,,Chicago,IL,60614,41.9135158,-87.6480859,1289,4.5,$$$
+103,India House Restaurant,59 W Grand Ave,,,Chicago,IL,60654,41.8914851,-87.6301826,1284,3.5,$$
+104,Pizzeria Uno,29 E Ohio St,,,Chicago,IL,60611,41.89227,-87.62692,1279,3.5,$$
+105,Sable Kitchen & Bar,505 N State St,,,Chicago,IL,60654,41.89111,-87.62754,1273,4.0,$$
+106,Sultan's Market,2057 W North Ave,,,Chicago,IL,60647,41.910362,-87.67973,1266,4.0,$
+107,San Soo Gab San,5247 N Western Ave,,,Chicago,IL,60625,41.9775897881067,-87.6887278533035,1254,3.5,$$
+108,Velvet Taco,1110 N State St,,,Chicago,IL,60610,41.9022,-87.62858,1253,4.0,$$
+109,Little Bad Wolf,1541 W Bryn Mawr Ave,,,Chicago,IL,60660,41.9833823855364,-87.6690510144549,1244,4.5,$$
+110,RPM Steak,66 W Kinzie St,,,Chicago,IL,60654,41.8894143124861,-87.6305293460327,1234,4.0,$$$$
+111,Friends Sushi,710 N Rush St,,,Chicago,IL,60611,41.895366,-87.625781,1227,4.0,$$
+112,Farmhouse Chicago,228 W Chicago Ave,,,Chicago,IL,60654,41.8968599,-87.6354,1222,4.0,$$
+113,Garcia's Restaurant,4760 N Lincoln Ave,,,Chicago,IL,60625,41.9680265354179,-87.6884323571472,1197,3.5,$$
+114,Mastro's Steakhouse,520 N Dearborn St,,,Chicago,IL,60654,41.8914200867251,-87.6299571990967,1183,4.0,$$$$
+115,Bar Siena,832 W Randolph St,,,Chicago,IL,60607,41.8845841437224,-87.6489488181068,1178,4.0,$$
+116,Uncle Julio's,855 W North Ave,,,Chicago,IL,60642,41.91058,-87.65028,1173,3.0,$$
+117,Antique Taco,1360 N Milwaukee Ave,,,Chicago,IL,60622,41.9063606,-87.6716766,1171,4.0,$$
+118,Davanti Enoteca,1359 W Taylor St,,,Chicago,IL,60607,41.86911,-87.66147,1163,4.0,$$
+119,Yolk River North,747 N Wells,,,Chicago,IL,60654,41.8962039977196,-87.6339920320032,1161,4.0,$$
+120,BIG & little's Restaurant,860 N Orleans St,,,Chicago,IL,60610,41.898386,-87.63726,1155,4.0,$$
+121,Glenns Diner,1820 W Montrose Ave,,,Chicago,IL,60613,41.9616270639775,-87.6754598194383,1150,4.0,$$
+122,Smoke Daddy,1804 W Division St,,,Chicago,IL,60622,41.90353,-87.6727,1150,4.0,$$
+123,Johnnie's Beef,7500 W North Ave,,,Elmwood Park,IL,60707,41.908958,-87.813319,1144,4.5,$
+124,Furious Spoon - Wicker Park,1571 N Milwaukee Ave,,,Chicago,IL,60622,41.9100336,-87.6766114,1144,4.0,$$
+125,Duck Duck Goat,857 W Fulton Market,,,Chicago,IL,60607,41.8866557616734,-87.6497170813778,1127,4.0,$$$
+126,The Art of Pizza,3033 N Ashland Ave,,,Chicago,IL,60657,41.9371221,-87.6683814,1121,4.0,$
+127,Jake Melnick's Corner Tap,41 E Superior St,,,Chicago,IL,60611,41.8955265,-87.626528,1120,4.0,$$
+128,Cheesie's Pub and Grub,958 W Belmont Ave,,,Chicago,IL,60657,41.9400049,-87.6538139,1113,4.0,$
+129,Shake Shack,66 E Ohio St,,,Chicago,IL,60611,41.8925451786606,-87.626036489827,1112,3.5,$$
+130,Coast Sushi Bar,2045 N Damen Ave,,,Chicago,IL,60647,41.9189215,-87.6774771,1112,4.0,$$
+131,Devon Seafood Grill,39 E Chicago Ave,,,Chicago,IL,60611,41.8965751,-87.6265949,1111,4.0,$$$
+132,Piccolo Sogno,464 N Halsted St,,,Chicago,IL,60642,41.8908673494353,-87.6477823122675,1103,4.0,$$$
+133,The Bristol,2152 N Damen Ave,,,Chicago,IL,60647,41.92105,-87.67804,1100,4.0,$$$
+134,Lockdown Bar & Grill,1024 N Western Ave,,,Chicago,IL,60622,41.90017,-87.687275,1091,4.0,$$
+135,Union Sushi + Barbeque Bar,230 W Erie St,,,Chicago,IL,60654,41.8940757,-87.6354284,1088,4.0,$$
+136,Roka Akor - Chicago,456 N Clark St,,,Chicago,IL,60654,41.8905877769375,-87.6312957381504,1083,4.0,$$$
+137,Miller's Pub,134 S Wabash Ave,,,Chicago,IL,60603,41.8802765,-87.6262965,1080,3.5,$$
+138,La Scarola,721 W Grand Ave,,,Chicago,IL,60610,41.8910731156813,-87.6468847784913,1076,4.0,$$
+139,Sepia,123 N Jefferson St,,,Chicago,IL,60661,41.883933,-87.6424,1070,4.0,$$$
+140,Toro Sushi,2546 N Clark St,,,Chicago,IL,60614,41.92907,-87.64281,1067,4.0,$$
+141,Fat Willy's Rib Shack,2416 W Schubert Ave,,,Chicago,IL,60647,41.93047,-87.68871,1063,4.0,$$
+142,Wilde Bar & Restaurant,3130 N Broadway St,,,Chicago,IL,60657,41.938785532425,-87.6445316181281,1061,4.0,$$
+143,The Wormhole Coffee,1462 N Milwaukee Ave,,,Chicago,IL,60622,41.90828,-87.67471,1054,4.5,$
+144,Nana,3267 S Halsted St,,,Chicago,IL,60608,41.834550484255,-87.6460413707298,1054,4.0,$$
+145,Star of Siam,11 E Illinois St,,,Chicago,IL,60611,41.8906364440918,-87.62744140625,1054,3.5,$$
+146,Chi Cafe,2160 S Archer Ave,Ste A,,Chicago,IL,60616,41.85351,-87.63448,1046,4.0,$
+147,Owen & Engine,2700 N Western Ave,,,Chicago,IL,60647,41.93047,-87.68823,1044,4.0,$$
+148,Cho Sun Ok Restaurant,4200 N Lincoln Ave,,,Chicago,IL,60618,41.95797,-87.68178,1035,3.5,$$
+149,Tanta,118 W Grand Ave,,,Chicago,IL,60654,41.891861,-87.6320114,1034,4.0,$$$
+150,Coalfire Pizza,1321 W Grand Ave,,,Chicago,IL,60642,41.89075,-87.65988,1033,4.0,$$
+151,Eggsperience Cafè,35 West Ontario,,,Chicago,IL,60654,41.893092,-87.629536,1031,3.5,$$
+152,Imperial Lamian,6 W Hubbard St,,,Chicago,IL,60654,41.8901808541776,-87.6281682718002,1028,4.0,$$
+153,Public House,400 N State St,,,Chicago,IL,60654,41.8893653140557,-87.6282758306885,1026,3.5,$$
+154,Uncommon Ground,3800 N Clark St,,,Chicago,IL,60613,41.95125,-87.66007,1026,3.5,$$
+155,The Dearborn,145 N Dearborn St,,,Chicago,IL,60602,41.8842528,-87.6293151,1025,4.5,$$
+156,Cozy Noodles & Rice,3456 N Sheffield Ave,,,Chicago,IL,60657,41.9452487,-87.654386,1022,4.0,$
+157,Giordano's - Jackson,223 W Jackson Blvd,,,Chicago,IL,60606,41.8779751,-87.6344499,1019,3.5,$$
+158,Wildfire,159 W Erie St,,,Chicago,IL,60654,41.8938172904842,-87.6333183422685,1018,4.0,$$$
+159,Sugar Factory,5445 Park Pl,,Mb Financial Park,Rosemont,IL,60018,41.978512,-87.86743,1015,2.5,$$
+160,Butterfly Sushi Bar & Thai Cuisine,1139 W Grand Ave,,,Chicago,IL,60642,41.89091,-87.6562,1014,4.0,$$
+161,Maple & Ash,8 W Maple St,,,Chicago,IL,60610,41.9021130633339,-87.6286945502972,1011,4.5,$$$$
+162,The Cheesecake Factory,875 N Michigan Ave,,,Chicago,IL,60611,41.8985768129586,-87.6233098699753,998,3.0,$$
+163,Burger Bar Chicago - Lincoln Park,1578 N Clybourn Ave,,,Chicago,IL,60642,41.910173,-87.648924,998,4.0,$$
+164,Do-Rite Donuts & Chicken,233 E Erie St,,,Chicago,IL,60611,41.894028,-87.6213298,998,4.5,$
+165,Rock Bottom Restaurant & Brewery,1 W Grand Ave,,,Chicago,IL,60610,41.8915042,-87.6283644490738,993,3.5,$$
+166,Lillie's Q,1856 W North Ave,,,Chicago,IL,60622,41.9106293802927,-87.6748318970203,985,3.5,$$
+167,Parlor Pizza Bar,108 N Green St,,,Chicago,IL,60607,41.8834176,-87.6487185,985,3.0,$$
+168,Demera Ethiopian Restaurant,4801 N Broadway St,,,Chicago,IL,60640,41.96918,-87.65931,980,4.0,$$
+169,Bub City,435 N Clark St,,,Chicago,IL,60654,41.8903402,-87.6308922,976,3.5,$$
+170,Butcher & The Burger,1021 W Armitage Ave,,,Chicago,IL,60614,41.91787,-87.65423,969,4.0,$$
+171,Maude's Liquor Bar,840 W Randolph St,,,Chicago,IL,60607,41.88466,-87.64908,969,4.0,$$$
+172,The Berghoff Restaurant,17 W Adams St,,,Chicago,IL,60603,41.8793326,-87.6286679,967,3.5,$$
+173,Untitled Supper Club,111 W Kinzie St,,,Chicago,IL,60654,41.8889649,-87.6316229,960,3.5,$$
+174,Homeslice,938 W Webster,,,Chicago,IL,60614,41.922,-87.65249,956,4.0,$$
+175,Topolobampo,445 N Clark St,,,Chicago,IL,60654,41.890585,-87.630905,956,3.5,$$$$
+176,Fork,4600 N Lincoln Ave,,,Chicago,IL,60625,41.96511,-87.68662,954,4.0,$$
+177,City Winery,1200 W Randolph St,,,Chicago,IL,60607,41.88463,-87.6574,952,3.5,$$
+178,Meli Cafe & Juice Bar,301 S Halsted St,,,Chicago,IL,60661,41.87761,-87.647,946,4.0,$$
+179,Hamburger Mary's,5400 N Clark St,,,Chicago,IL,60640,41.97997,-87.66851,945,3.5,$$
+180,Timothy O'Toole's Pub - Chicago,622 N Fairbanks Ct,,,Chicago,IL,60611,41.8931909,-87.6204274,944,3.5,$$
+181,RJ Grunts,2056 N Lincoln Park W,,,Chicago,IL,60614,41.920024442085,-87.636636114155,943,4.0,$$
+182,Calo Ristorante,5343 N Clark St,,,Chicago,IL,60640,41.97934,-87.66793,938,4.0,$$
+183,Pequod's Pizza,8520 Fernald Ave,,,Morton Grove,IL,60053,42.03626,-87.78282,933,4.0,$$
+184,Pizzeria Due,619 N Wabash Ave,,,Chicago,IL,60611,41.8931467721058,-87.6265681621034,932,3.5,$$
+185,Sweetwater Tavern and Grille,225 N Michigan Ave,,,Chicago,IL,60601,41.886472,-87.624099,928,3.5,$$
+186,The Wiener's Circle,2622 N Clark St,,,Chicago,IL,60614,41.930108,-87.643951,926,3.5,$
+187,Giordano's,9415 W Higgins Rd,,,Rosemont,IL,60018,41.9911428017844,-87.8612619613828,926,4.0,$$
+188,Prime & Provisions,222 N La Salle St,,,Chicago,IL,60601,41.8866316388428,-87.6328291859281,925,4.5,$$$$
+189,Noon O Kabab,4701 N Kedzie Ave,,,Chicago,IL,60625,41.9669816,-87.7081594,924,4.0,$$
+190,Fat Rice,2957 W Diversey Ave,,,Chicago,IL,60647,41.9319451,-87.7017382,921,4.0,$$
+191,Michael Jordan's Steak House,505 N Michigan Ave,,,Chicago,IL,60611,41.8912043,-87.6239424,919,4.0,$$$
+192,Tavern On Rush,1031 N Rush St,,,Chicago,IL,60611,41.9018219998443,-87.6279733472541,917,3.5,$$$
+193,Hugo's Frog Bar & Fish House,1024 North Rush,,,Chicago,IL,60611,41.901191,-87.627793,917,4.0,$$$
+194,Small Cheval,1732 N Milwaukee Ave,,,Chicago,IL,60647,41.91282,-87.6815699,916,4.5,$$
+195,Flo,1434 W Chicago Ave,,,Chicago,IL,60642,41.8963899,-87.66383,913,4.0,$$
+196,Simply It,2269 N Lincoln Ave,,,Chicago,IL,60614,41.923501,-87.6457,913,4.0,$$
+197,ROOF on theWit,201 N State St,,,Chicago,IL,60601,41.8860699,-87.6276199,911,3.0,$$$
+198,Fish Bar,2956 N Sheffield Ave,,,Chicago,IL,60657,41.9361243683693,-87.6541800306757,911,4.0,$$
+199,Home Bistro,3404 N Halsted St,,,Chicago,IL,60657,41.943935,-87.649505,911,4.5,$$
+200,Parson's Chicken & Fish,2952 W Armitage,,,Chicago,IL,60647,41.91758764277,-87.7013152429917,911,3.5,$$
+201,Las Tablas Colombian Steakhouse,2942 N Lincoln Ave,,,Chicago,IL,60657,41.935258,-87.662681,907,4.0,$$
+202,Ditka's Restaurant,100 E Chestnut St,,,Chicago,IL,60611,41.89859,-87.62558,907,4.0,$$$
+203,Cafe con Leche,2714 N Milwaukee Ave,,,Chicago,IL,60647,41.9305879,-87.710207,903,4.0,$$
+204,3 Arts Club Cafe,1300 N Dearborn Pkwy,,,Chicago,IL,60610,41.9058,-87.63047,902,4.5,$$
+205,WHISK,2018 W Chicago Ave,,,Chicago,IL,60622,41.8961206,-87.6778316,902,4.0,$$
+206,The Italian Village Restaurants,71 W Monroe St,,,Chicago,IL,60603,41.880595,-87.630159,899,3.5,$$
+207,Aloha Eats,2534 N Clark St,,,Chicago,IL,60614,41.9287526,-87.6425448,896,4.0,$
+208,Dimo's Pizza,3463 N Clark St,,,Chicago,IL,60657,41.94521,-87.65467,895,4.0,$
+209,The Hampton Social - River North,353 W Hubbard St,,,Chicago,IL,60654,41.8898337310695,-87.6378512282417,895,3.5,$$
+210,Pick Me Up Cafe,3408 N Clark St,,,Chicago,IL,60657,41.9438,-87.65403,894,3.5,$$
+211,Kai Zan,2557 W Chicago Ave,,,Chicago,IL,60622,41.8955051374998,-87.6915407180786,888,4.5,$$$
+212,Momotaro,820 W Lake St,,,Chicago,IL,60607,41.8858362394937,-87.6485168502935,884,4.0,$$$
+213,Joy's Noodles & Rice,3257 N Broadway,,,Chicago,IL,60657,41.941753,-87.644134,884,4.0,$
+214,BIG & little's Restaurant,1034 W Belmont Ave,,,Chicago,IL,60657,41.9400472330334,-87.6555045423279,884,4.0,$
+215,Oiistar,1385 N Milwaukee Ave,,,Chicago,IL,60622,41.9070880100627,-87.6720839738846,882,4.0,$$
+216,Goose Island Brewhouse,1800 N Clybourn Ave,,,Chicago,IL,60614,41.9134218987771,-87.6542950746777,880,3.5,$$
+217,Hofbrauhaus Chicago,5500 Park Pl,,,Rosemont,IL,60018,41.9787277,-87.8683148,875,3.0,$$
+218,Billy Goat Tavern,430 N Michigan Ave,Lower Level,,Chicago,IL,60611,41.8904001382989,-87.6244565199671,874,3.5,$
+219,Manny's Cafeteria and Delicatessen,1141 S Jefferson St,,,Chicago,IL,60607,41.867936029135,-87.642088208016,873,4.0,$$
+220,Cumin,1414 N Milwaukee Ave,,,Chicago,IL,60622,41.9075592449864,-87.6731534178223,872,4.0,$$
+221,Dusek's Board & Beer,1227 W 18th St,,,Chicago,IL,60608,41.857871,-87.65739,868,4.0,$$
+222,Lou Mitchell's Restaurant & Bakery,565 W Jackson Blvd,,,Chicago,IL,60661,41.87779,-87.64211,867,3.5,$$
+223,Opart Thai House,1906 S State St,,,Chicago,IL,60606,41.8563894,-87.6272949,866,4.0,$$
+224,Maya Del Sol,144 S Oak Park Ave,,,Oak Park,IL,60302,41.88603,-87.79398,865,4.0,$$
+225,Taco Joint,1969 N Halsted St,,,Chicago,IL,60614,41.91791,-87.648371,864,4.0,$$
+226,Strings Ramen Shop,2141 S Archer Ave,,,Chicago,IL,60616,41.853414,-87.633175,863,3.5,$$
+227,25 Degrees,736 N Clark St,,,Chicago,IL,60654,41.89595,-87.63159,860,4.0,$$
+228,Goddess And The Baker,33 S Wabash Ave,,,Chicago,IL,60603,41.881259,-87.625846,858,4.0,$$
+229,Bite Café,1035 N Western Ave,,,Chicago,IL,60622,41.90047,-87.68663,855,4.0,$$
+230,Southport Grocery & Cafe,3552 N Southport Ave,Ste 1,,Chicago,IL,60657,41.946743,-87.664357,853,4.0,$$
+231,Nellcôte,833 W Randolph St,,,Chicago,IL,60607,41.8842029218415,-87.6491502961838,849,3.5,$$$
+232,The Boiler Room,2210 N California Ave,,,Chicago,IL,60647,41.922116,-87.697669,847,3.5,$$
+233,Honky Tonk BBQ,1800 S Racine Ave,,,Chicago,IL,60608,41.85779,-87.65678,845,3.5,$$
+234,Alliance Bakery & Cafe,1736 W Division St,,,Chicago,IL,60622,41.90355,-87.67149,841,4.0,$
+235,Chicago Waffles,1400 S Michigan Ave,,,Chicago,IL,60605,41.8636916138122,-87.6242473934512,840,3.0,$$
+236,Nacional 27,325 W Huron St,,,Chicago,IL,60654,41.89489726738,-87.637452219798,840,3.5,$$$
+237,Bourgeois Pig Cafe,738 W Fullerton Ave,,,Chicago,IL,60614,41.92567,-87.64791,839,3.5,$
+238,The Pasta Bowl,2434 N Clark St,,,Chicago,IL,60614,41.92638,-87.641448,837,4.0,$$
+239,Artopolis,306 S Halsted St,,,Chicago,IL,60661,41.877632,-87.647546,837,4.0,$$
+240,The Angry Crab,5665 N Lincoln Ave,,,Chicago,IL,60659,41.9845332,-87.6972261,831,4.0,$$
+241,Kabul House,2424 Dempster St,,,Evanston,IL,60202,42.04066,-87.70823,823,4.5,$$
+242,Umami Burger - Wicker Park,1480 N Milwaukee Ave,,,Chicago,IL,60622,41.9085899,-87.6752,822,4.0,$$
+243,SafeHouse Chicago,60 E Ontario St,,,Chicago,IL,60611,41.8934761420147,-87.6259666423279,820,4.0,$$
+244,Flo & Santos,1310 S Wabash Ave,,,Chicago,IL,60605,41.8653913003346,-87.6260132093555,819,4.0,$$
+245,Topo Gigio Ristorante,1516 N Wells St,,,Chicago,IL,60610,41.9096594975818,-87.6348415912861,818,4.0,$$
+246,Sticky Rice,4018 N Western Ave,,,Chicago,IL,60618,41.95467,-87.68883,818,4.0,$$
+247,Ipsento,2035 N Western Ave,,,Chicago,IL,60647,41.9186515808105,-87.6871032714844,817,4.5,$
+248,Carmine's,1043 N Rush St,,,Chicago,IL,60611,41.9019953,-87.6281131,810,3.5,$$$
+249,Roots Handmade Pizza,1924 W Chicago Ave,,,Chicago,IL,60622,41.8962,-87.67565,809,3.5,$$
+250,The Dawson,730 W Grand Ave,,,Chicago,IL,60654,41.8913174932487,-87.6471944883606,807,4.0,$$
+251,Frontier,1072 N Milwaukee Ave,,,Chicago,IL,60642,41.901201,-87.663558,803,3.5,$$
+252,Smith & Wollensky,318 N State St,,,Chicago,IL,60654,41.8883017,-87.6281349,803,3.5,$$$
+253,TWO Restaurant,1132 W Grand Ave,,,Chicago,IL,60642,41.89133,-87.65613,797,4.5,$$$
+254,L. Woods Tap & Pine Lodge,7110 N Lincoln Ave,,,Lincolnwood,IL,60712,42.0100908807828,-87.7378698840361,797,4.0,$$
+255,bopNGrill,6604 N Sheridan Rd,,,Chicago,IL,60626,42.002840213503,-87.661120406701,796,4.0,$$
+256,Rosebud on Rush,720 N Rush St,,,Chicago,IL,60611,41.895633,-87.62571,792,4.0,$$
+257,Lady Gregory's,5260 N Clark St,,,Chicago,IL,60640,41.9774908,-87.6685493,791,3.5,$$
+258,Catch 35,35 W Wacker Dr,,,Chicago,IL,60601,41.886448,-87.629102,788,4.0,$$$
+259,Nhu Lan Saigon Subs,2612 W Lawrence Ave,,,Chicago,IL,60625,41.9687048,-87.6944151,788,4.5,$
+260,Moody's Pub,5910 N Broadway St,,,Chicago,IL,60660,41.9893473,-87.6603849,787,3.5,$$
+261,Umai,730 S Clark St,,,Chicago,IL,60605,41.8722769939333,-87.6310924282417,785,4.0,$$
+262,Ba Le Sandwich,5014 N Broadway St,,,Chicago,IL,60640,41.9732,-87.66024,784,4.0,$
+263,Sushi Para II,2258 N Clark St,,,Chicago,IL,60614,41.923482,-87.63937,783,3.5,$$
+264,Osteria Via Stato,620 N State St,,,Chicago,IL,60654,41.893095,-87.6282449,783,4.0,$$
+265,Friendship Chinese Restaurant,2830 N Milwaukee Ave,,,Chicago,IL,60618,41.9324798583984,-87.7135467529297,782,3.5,$$
+266,Gene & Georgetti,500 N Franklin St,,,Chicago,IL,60654,41.89091,-87.63581,778,3.5,$$$
+267,Joy Yee's Noodle Kitchen,521 Davis St,,,Evanston,IL,60201,42.0461722855252,-87.6789217134918,778,3.5,$$
+268,Lawrence Fish Market - Temporarily in Bryn Mawr Fresh Market,3318 W Bryn Mawr Ave,,,Chicago,IL,60659,41.9833349,-87.7121431,777,4.5,$
+269,Wishbone,161 N Jefferson St,,,Chicago,IL,60661,41.885101,-87.642447,773,4.0,$$
+270,Gibsons Bar & Steakhouse,5464 North River Rd,,,Rosemont,IL,60018,41.97828,-87.86324,772,4.0,$$$
+271,Milk & Honey Cafe,1920 W Division St,Ste 1,,Chicago,IL,60622,41.90352,-87.67573,769,3.5,$$
+272,Epic Burger,517 S State St,,,Chicago,IL,60605,41.8752826,-87.6274851,767,3.5,$$
+273,Paradise Pup,1724 S River Rd,,,Des Plaines,IL,60018,42.0221052425779,-87.8761289595645,767,4.5,$
+274,El Barco,1035 N Ashland Ave,,,Chicago,IL,60622,41.9007453918457,-87.6670761108398,766,3.5,$$
+275,Lao Sze Chuan,520 N Michigan Ave,Ste 420,,Chicago,IL,60611,41.8914408,-87.6243185,766,3.5,$$
+276,The Chicago Diner,2333 N Milwaukee Ave,,,Chicago,IL,60647,41.9237447433269,-87.6982310134918,764,4.5,$$
+277,Sweet Maple Cafe,1339 W Taylor St,,,Chicago,IL,60607,41.869123,-87.660678,763,4.0,$$
+278,Gather,4539 N Lincoln Ave,,,Chicago,IL,60625,41.9643402,-87.6853638,761,4.5,$$
+279,Sunny Side Up & Coffee Shop,42 E Superior St,,,Chicago,IL,60611,41.8957916402964,-87.6263844966888,759,4.0,$$
+280,River Roast,315 N La Salle Dr,,,Chicago,IL,60654,41.887957929885,-87.6321899243637,758,4.0,$$
+281,Niu Japanese Fusion Lounge,332 E Illinois St,,,Chicago,IL,60611,41.891185141978,-87.618678666509,758,3.5,$$
+282,Medici On 57th,1327 E 57th St,,,Chicago,IL,60637,41.7912668915301,-87.5937661525865,758,3.5,$$
+283,Ann Sather Restaurant,909 W Belmont Ave,,,Chicago,IL,60657,41.9397301,-87.6520027,757,4.0,$$
+284,Flaco's Tacos,725 S Dearborn St,,,Chicago,IL,60605,41.8728063,-87.6289506,756,3.5,$
+285,Twin Anchors Restaurant & Tavern,1655 N Sedgwick St,,,Chicago,IL,60614,41.91268,-87.63832,755,4.0,$$
+286,Pops for Champagne,601 N State St,,,Chicago,IL,60654,41.8926209396105,-87.6279114723251,752,3.5,$$$
+287,Big Bowl,60 E Ohio St,,,Chicago,IL,60611,41.892629,-87.6261317,752,3.5,$$
+288,Pizano's Pizza,864 N State St,,,Chicago,IL,60610,41.89863,-87.62844,752,3.5,$$
+289,Fig & Olive - Chicago,104 East Oak St,,,Chicago,IL,60611,41.901044,-87.625532,750,3.5,$$$
+290,West Egg Cafe,620 N Fairbanks Ct,,,Chicago,IL,60611,41.89324,-87.6203949,749,3.5,$$
+291,Ghareeb Nawaz,2032 W Devon Ave,,,Chicago,IL,60659,41.997979,-87.681612,747,4.0,$
+292,Toast,746 W Webster Ave,,,Chicago,IL,60614,41.921992,-87.648104,746,4.0,$$
+293,LuxBar,18 E Bellevue,,,Chicago,IL,60611,41.90177,-87.62763,746,4.0,$$
+294,Kanela Breakfast Club,3231 N Clark St,,,Chicago,IL,60657,41.9407813512579,-87.6512104074097,746,3.5,$$
+295,The Capital Grille,633 N Saint Clair St,,,Chicago,IL,60611,41.893789,-87.622358,742,4.5,$$$
+296,Balena,1633 N Halsted St,,,Chicago,IL,60614,41.91195,-87.64795,741,4.0,$$$
+297,Tavern at the Park,130 E Randolph St,,,Chicago,IL,60601,41.884633450002,-87.6236779994751,740,3.5,$$
+298,Native Foods Cafe,218 S Clark St,,,Chicago,IL,60604,41.87887,-87.63117,739,4.0,$$
+299,Lawry's The Prime Rib,100 E Ontario St,,,Chicago,IL,60611,41.893461,-87.625029,738,4.0,$$$
+300,Stella's Diner,3042 N Broadway St,,,Chicago,IL,60657,41.9377628713846,-87.6443700492382,737,4.0,$
+301,Theory,9 W Hubbard St,,,Chicago,IL,60654,41.8899748,-87.6286362,737,4.0,$$
+302,90 Miles Cuban Café,3101 N Clybourn Ave,,,Chicago,IL,60618,41.9380569458008,-87.6858062744141,735,4.0,$
+303,Tandoor Char House,2652 N Halsted St,,,Chicago,IL,60614,41.9306399,-87.64928,734,4.0,$$
+304,Nini's Deli,543 N Noble St,,,Chicago,IL,60642,41.89235,-87.66198,734,5.0,$
+305,D4 Irish Pub & Cafe,345 E Ohio St,,,Chicago,IL,60611,41.892019224495,-87.618911921119,732,3.5,$$
+306,Uncommon Ground,1401 W Devon Ave,,,Chicago,IL,60660,41.9980244460366,-87.6655852796304,732,3.5,$$
+307,Cafe El Tapatio,3400 N Ashland Ave,,,Chicago,IL,60657,41.94357,-87.66913,731,4.0,$$
+308,Ricobene's,252 W 26th St,,,Chicago,IL,60616,41.84575,-87.63389,730,4.0,$
+309,Sabri Nihari Restaurant,2502 W Devon Ave,,,Chicago,IL,60659,41.9978027,-87.692538,729,3.5,$$
+310,Isla Pilipina,2501 W Lawrence Ave,Unit D,,Chicago,IL,60625,41.9682525,-87.6916001116394,728,4.0,$$
+311,Lou Malnati's Pizzeria,958 W Wrightwood Ave,,,Chicago,IL,60614,41.9291500907879,-87.6535692116174,727,4.0,$$
+312,Hubbard Inn,110 W Hubbard St,,,Chicago,IL,60654,41.89025,-87.63179,726,3.5,$$
+313,Brunch,644 N Orleans St,,,Chicago,IL,60654,41.8937063,-87.6372449,726,3.5,$$
+314,High Five Ramen,112 N Green St,,,Chicago,IL,60607,41.883651,-87.648968,726,4.0,$$
+315,Wishbone,3300 N Lincoln Ave,,,Chicago,IL,60657,41.941674636742,-87.67028176426,724,3.5,$$
+316,Havana,412 N Clark St,,,Chicago,IL,60654,41.88967,-87.6314,722,4.0,$$
+317,Beatrix Streeterville,671 N St Clair,,,Chicago,IL,60611,41.8944242,-87.622564,722,4.5,$$
+318,Adobo Grill,215 W North Ave,,,Chicago,IL,60610,41.9109338,-87.6353587,720,3.5,$$
+319,Bryn Mawr Breakfast Club,3348 W Bryn Mawr Ave,,,Chicago,IL,60659,41.9831649,-87.71335,717,4.5,$$
+320,Ethiopian Diamond,6120 N Boardway St,,,Chicago,IL,60660,41.99301,-87.66068,716,4.0,$$
+321,STK Chicago,9 West Kinzie St,,,Chicago,IL,60654,41.88902,-87.62864,716,4.0,$$$
+322,JAM,2853 N Kedzie Ave,,,Chicago,IL,60618,41.933595,-87.707188,715,3.5,$$
+323,Blue Line Lounge & Grill,1548 N Damen Ave,,,Chicago,IL,60622,41.9095818,-87.6777204,715,4.0,$$
+324,El Nuevo Mexicano,2914 N Clark St,,,Chicago,IL,60657,41.9352732,-87.6470639,715,4.0,$$
+325,Phoenix Restaurant,2131 S Archer Ave,,,Chicago,IL,60616,41.8534698486328,-87.6329345703125,715,3.5,$$
+326,Pleasant House Pub,2119 S Halsted St,,,Chicago,IL,60608,41.85357,-87.64621,714,4.5,$$
+327,Bari,1120 W Grand Ave,,,Chicago,IL,60642,41.89136,-87.65555,712,4.5,$
+328,Panes Bread Cafe,3002 N Sheffield Ave,,,Chicago,IL,60657,41.9364856920137,-87.6542047151184,712,4.5,$
+329,Ruth's Chris Steak House,431 N Dearborn St,,,Chicago,IL,60654,41.8901981146158,-87.6294261217117,710,4.0,$$$
+330,Qing Xiang Yuan Dumplings,2002 S Wentworth Ave,Ste 103,,Chicago,IL,60616,41.85505,-87.63219,710,4.0,$$
+331,Nico Osteria,1015 N Rush St,,,Chicago,IL,60611,41.9013688470215,-87.6276382123032,709,4.0,$$$
+332,Bakin' & Eggs,3120 N Lincoln Ave,,,Chicago,IL,60657,41.93823,-87.66714,707,3.5,$$
+333,Scofflaw,3201 W Armitage Ave,,,Chicago,IL,60647,41.9173240661621,-87.7071762084961,707,4.5,$$
+334,Kinzie Chophouse,400 N Wells St,,,Chicago,IL,60654,41.8893789,-87.634279,704,4.0,$$$
+335,DryHop Brewers,3155 N Broadway,,,Chicago,IL,60657,41.9392443174878,-87.6442063962951,704,4.0,$$
+336,Edzo's Burger Shop,1571 Sherman Ave,,,Evanston,IL,60201,42.046047,-87.681241,703,4.0,$$
+337,The Indian Garden,247 E Ontario St,Ste 2,,Chicago,IL,60611,41.8932472,-87.6209043,702,3.5,$$
+338,NoMI Kitchen,800 N Michigan Ave,Fl 7,Park Hyatt Chicago,Chicago,IL,60611,41.8969705807961,-87.6251828670502,702,4.0,$$$$
+339,La Gondola,2914 N Ashland Ave,,,Chicago,IL,60657,41.9345793,-87.6686589,702,4.0,$$
+340,Doc B's Restaurant + Bar,100 E Walton St,,,Chicago,IL,60611,41.900246,-87.625163,701,4.5,$$
+341,Angelina Ristorante,3561 N Broadway St,,,Chicago,IL,60657,41.947146362475,-87.6469336269836,701,4.0,$$
+342,Indie Cafe,5951 N Broadway St,,,Chicago,IL,60660,41.9904999627679,-87.6600041637543,700,4.0,$$
+343,Crosby's Kitchen,3455 N Southport Ave,,,Chicago,IL,60657,41.94508,-87.66357,700,4.0,$$
+344,Cafe Selmarie,4729 N Lincoln Ave,,,Chicago,IL,60625,41.9674474,-87.6875832,699,4.0,$$
+345,Harry Caray's Italian Steakhouse - River North,33 W Kinzie St,,,Chicago,IL,60654,41.8890226258691,-87.6292555506971,698,4.0,$$$
+346,Tre Kronor,3258 W Foster Ave,,,Chicago,IL,60625,41.9759307505565,-87.7109275,694,4.0,$$
+347,Tempo Cafe,6 E Chestnut St,,,Chicago,IL,60611,41.898485654682,-87.627969592056,693,3.5,$$
+348,Ēma,74 W Illinois St,,,Chicago,IL,60654,41.8909649,-87.6306233,693,4.5,$$
+349,RL Restaurant,115 E Chicago Ave,,,Chicago,IL,60611,41.897007,-87.624961,693,4.0,$$$
+350,Buffalo Joe's,812 Clark St,,,Evanston,IL,60201,42.049913316724,-87.682541892338,692,4.0,$
+351,Petterino's,150 N Dearborn St,,,Chicago,IL,60601,41.8846425,-87.6296888,692,3.5,$$
+352,Mon Ami Gabi,2300 N Lincoln Park W,,,Chicago,IL,60614,41.924093,-87.636974,690,4.0,$$$
+353,Athenian Room,807 W Webster Ave,,,Chicago,IL,60614,41.9217435,-87.6490466,689,4.0,$$
+354,Iguana Café,517 N Halsted St,,,Chicago,IL,60642,41.8917655944824,-87.6474304199219,689,4.0,$$
+355,Park Grill at Millennium Park,11 N Michigan Ave,,Millennium Park,Chicago,IL,60602,41.882686667881,-87.6235798878008,688,3.0,$$
+356,Maggiano's Little Italy,516 N Clark St,,,Chicago,IL,60654,41.8913803100586,-87.6317443847656,686,4.0,$$
+357,Twisted Spoke,501 N Ogden Ave,,,Chicago,IL,60642,41.8912954404938,-87.6585463125038,685,3.5,$$
+358,Half Shell,676 W Diversey Pkwy,,,Chicago,IL,60614,41.93302,-87.64657,684,4.0,$$
+359,Fatso's Last Stand,2258 W Chicago Ave,,,Chicago,IL,60622,41.8959792096669,-87.6842580932541,681,4.5,$
+360,The Roost Carolina Kitchen,1467 W Irving Park Rd,,,Chicago,IL,60613,41.954246,-87.666775,675,4.0,$
+361,Chicago Chop House,60 W Ontario St,,,Chicago,IL,60654,41.89349,-87.63045,672,3.5,$$$$
+362,Cesar's Killer Margaritas - Broadway,2924 N Broadway,,,Chicago,IL,60657,41.9357073,-87.644427,672,3.0,$$
+363,Chilam Balam,3023 N Broadway St,,,Chicago,IL,60657,41.93722,-87.64401,672,3.5,$$
+364,Simone's,960 W 18th St,,,Chicago,IL,60608,41.8581707126579,-87.6510884753762,670,3.5,$$
+365,Pierogi Heaven,169 N Wells St,,,Chicago,IL,60606,41.8848892663734,-87.633853211969,669,4.5,$
+366,Great Sea Restaurant,3254 W Lawrence Ave,,,Chicago,IL,60625,41.9687,-87.71065,669,4.0,$$
+367,Doc B's Restaurant + Bar,55 E Grand Ave,,,Chicago,IL,60611,41.891591,-87.626302,669,4.5,$$
+368,Sheffield's Wine & Beer Garden,3258 N Sheffield Ave,,,Chicago,IL,60657,41.94161,-87.65455,669,4.0,$$
+369,Reza's Restaurant,5255 N Clark St,,,Chicago,IL,60640,41.9778895664059,-87.6681118034762,666,3.5,$$
+370,Meli Cafe,540 N Wells St,,,Chicago,IL,60654,41.8918462775328,-87.6342765335556,664,3.5,$$
+371,En Hakkore,1840 N Damen Ave,,,Chicago,IL,60647,41.9150939,-87.6777957,664,4.5,$$
+372,Monteverde,1020 W Madison St,,,Chicago,IL,60607,41.88191,-87.65302,662,4.5,$$$
+373,MingHin Cuisine,333 E Benton Pl,Ste 300,,Chicago,IL,60601,41.8851133316306,-87.6191340577136,660,4.0,$$
+374,Bittersweet Pastry Shop,1114 W Belmont Ave,,,Chicago,IL,60657,41.94013,-87.65729,660,4.0,$$
+375,Vermilion,10 W Hubbard St,,,Chicago,IL,60654,41.8901732672856,-87.6284838567184,659,3.0,$$$
+376,Viaggio Ristorante & Lounge,1330 W Madison St,,,Chicago,IL,60607,41.88179,-87.6609,659,4.5,$$
+377,Dinkel's Bakery,3329 N Lincoln Ave,,,Chicago,IL,60657,41.9424245735863,-87.6704134610592,658,4.0,$
+378,Frasca Pizzeria and Wine Bar,3358 N Paulina St,,,Chicago,IL,60657,41.9430502,-87.6713149,658,4.0,$$
+379,PR Italian Bistro,3908 N Sheridan Rd,,,Chicago,IL,60613,41.953063,-87.654755,657,4.0,$$
+380,Mother Cluckers Kitchen,5200 N Elston Ave,,,Chicago,IL,60630,41.9752685744915,-87.7522482539673,657,4.5,$$
+381,Ras Dashen Ethiopian Restaurant,5846 N Broadway St,,,Chicago,IL,60660,41.9885039,-87.6604057,657,4.0,$$
+382,Nookies,1746 N Wells St,,,Chicago,IL,60614,41.91427,-87.63508,656,4.0,$$
+383,Toni Patisserie & Cafe,65 E Washington St,,,Chicago,IL,60602,41.8831251,-87.6257316,656,4.0,$$
+384,Chicago's Home Of Chicken & Waffles,3947 S King Dr,,,Chicago,IL,60653,41.82229,-87.61632,655,3.5,$$
+385,Las Palmas,1835 W North Ave,,,Chicago,IL,60622,41.910266,-87.673935,655,4.0,$$
+386,La Crêperie,2845 N Clark St,,,Chicago,IL,60657,41.934059,-87.645708,655,4.0,$$
+387,Athena Greek Restaurant,212 S Halsted St,,,Chicago,IL,60661,41.87864,-87.64762,652,3.5,$$
+388,The Scout Waterhouse + Kitchen,1301 S Wabash Ave,,,Chicago,IL,60605,41.8657449359089,-87.6255132110611,652,3.0,$$
+389,Bistro Campagne,4518 N Lincoln Ave,,,Chicago,IL,60625,41.96356,-87.68563,650,4.0,$$$
+390,Turquoise Restaurant,2147 W Roscoe St,,,Chicago,IL,60618,41.94289,-87.68265,649,4.0,$$
+391,Mott St,1401 N Ashland Ave,,,Chicago,IL,60622,41.9071254164458,-87.6673834605751,649,4.0,$$
+392,Taste of Lebanon Restaurant,1509 W Foster Ave,,,Chicago,IL,60640,41.9760635,-87.6686494,648,4.5,$
+393,The Fifty/50,2047 W Division St,,,Chicago,IL,60622,41.90301427628,-87.6788022511999,647,3.5,$$
+394,Noodles In the Pot,2453 N Halsted St,,,Chicago,IL,60614,41.9269149578037,-87.6487970352173,647,4.0,$$
+395,Next,953 W Fulton Market,,,Chicago,IL,60607,41.886641182708,-87.6519030656,646,4.0,$$$$
+396,LYFE Kitchen,413 North Clark St,,,Chicago,IL,60654,41.8897715425784,-87.6308315944427,645,4.0,$$
+397,The Allis,113-125 N Green St,Soho House Chicago,,Chicago,IL,60607,41.88374,-87.64828,644,4.0,$$
+398,Vapiano Chicago Loop,44 S Wabash Ave,,,Chicago,IL,60603,41.880982,-87.626392,644,3.5,$$
+399,Go 4 Food,212 W 23rd St,,,Chicago,IL,60616,41.851085,-87.6326203,643,4.0,$$
+400,A Taste Of Heaven,5401 N Clark St,,,Chicago,IL,60640,41.9799884,-87.6681389,643,4.0,$$
+401,Cesar's Killer Margaritas - Clark,3166 N Clark St,,,Chicago,IL,60657,41.9394515143197,-87.6505812823541,642,3.0,$$
+402,Luella's Southern Kitchen,4609 N Lincoln Ave,,,Chicago,IL,60625,41.9652587902013,-87.686160877347,642,4.0,$$
+403,Chicago Bagel Authority,953 W Armitage Ave,,,Chicago,IL,60614,41.9178624,-87.6529861,642,4.0,$
+404,Nutella Cafe,189 N Michigan Ave,,,Chicago,IL,60601,41.8855589,-87.6243248,640,3.0,$$
+405,Mia Francesca,3311 N Clark St,,,Chicago,IL,60657,41.9420064,-87.6523323,637,4.0,$$
+406,Triple Crown Restaurant,2217 S Wentworth Ave,,,Chicago,IL,60616,41.852477,-87.6318687435513,637,3.5,$$
+407,Cochon Volant Brasserie,100 W Monroe St,,,Chicago,IL,60603,41.8807911918252,-87.6310143247247,636,4.0,$$
+408,Flub A Dub Chub's,3021 N Broadway,,,Chicago,IL,60657,41.93717,-87.64401,635,4.5,$
+409,State Restaurant,935 W Webster Ave,,,Chicago,IL,60614,41.9215,-87.65248,634,3.5,$$
+410,Folklore Argentine Grill,2100 W Division St,,,Chicago,IL,60622,41.9034461975098,-87.6799240112305,634,4.0,$$
+411,Kit Kat Lounge & Supper Club,3700 N Halsted St,,,Chicago,IL,60613,41.949263828004,-87.6497471053475,628,3.5,$$
+412,Alhambra Palace,1240 W Randolph St,,,Chicago,IL,60607,41.88461,-87.65837,628,3.0,$$$
+413,Pastoral,53 E Lake St,,,Chicago,IL,60601,41.8856159,-87.6260252,622,4.0,$$
+414,Prosecco,710 N Wells St,,,Chicago,IL,60654,41.8952140808105,-87.6345138549805,619,4.0,$$$
+415,Cafe Vienna,2523 N Clark St,,,Chicago,IL,60614,41.928489,-87.642033,618,4.0,$
+416,RM Champagne,116 N Green St,,,Chicago,IL,60607,41.8835832,-87.6487261,618,4.0,$$$
+417,Joy Yee's Noodle Shop,1335 S Halsted St,,,Chicago,IL,60608,41.8643301355842,-87.6467004576721,617,3.5,$$
+418,New Wave Coffee,3103 W Logan Blvd,,,Chicago,IL,60647,41.9280948489904,-87.7050878852606,616,3.0,$
+419,Fado Irish Pub,100 W Grand Ave,,,Chicago,IL,60610,41.8918,-87.63145,614,4.0,$$
+420,Eddie V's Prime Seafood and Steaks,521 N Rush St,Ste R01,,Chicago,IL,60611,41.891544320187,-87.6252151962952,611,4.5,$$$
+421,ARAMI,1829 W Chicago Ave,,,Chicago,IL,60622,41.8960345011502,-87.6733909357176,611,4.0,$$$
+422,Park Tavern,5433 Park Pl,,,Rosemont,IL,60018,41.978316,-87.867798,610,3.0,$$
+423,Al's Beef,169 W Ontario St,,,Chicago,IL,60654,41.89302,-87.6337999,610,3.5,$
+424,Saucy Porka,400 S Financial Pl,,,Chicago,IL,60605,41.8765020444174,-87.6331966288361,608,4.5,$
+425,Prasino,93 S La Grange Ave,,,La Grange,IL,60525,41.812863,-87.869234,607,4.0,$$
+426,Southern Cut Barbeque,198 E Delaware Pl,,,Chicago,IL,60611,41.8994131791425,-87.6220517233197,606,3.5,$$
+427,Pierrot Gourmet,108 E Superior St,,Peninsula Chicago Hotel,Chicago,IL,60611,41.8958148392202,-87.625353483667,605,4.0,$$
+428,Buona Terra,2535 N California Ave,,,Chicago,IL,60647,41.92788,-87.69722,602,4.5,$$
+429,Feed,2803 W Chicago Ave,,,Chicago,IL,60622,41.895473,-87.696973,600,4.0,$
+430,Libertad,7931 Lincoln Ave,,,Skokie,IL,60077,42.02558,-87.75488,600,4.5,$$
+431,Atwood,1 W Washington St,,,Chicago,IL,60602,41.88304,-87.62826,599,3.5,$$$
+432,El Hefe,15 W Hubbard St,,,Chicago,IL,60654,41.8900083,-87.628553,599,3.0,$$
+433,Moe's Cantina- River North,155 W Kinzie St,,,Chicago,IL,60654,41.88882,-87.6332,599,2.5,$$
+434,Dove's Luncheonette,1545 N Damen Ave,,,Chicago,IL,60622,41.909487,-87.677293,598,4.0,$$
+435,Su Casa Restaurant,49 E Ontario St,,,Chicago,IL,60611,41.893125,-87.626199,597,3.0,$$
+436,Chicago Curry House,899 S Plymouth Ct,,,Chicago,IL,60605,41.87086,-87.62846,597,3.5,$$
+437,The Walnut Room,111 N State St,,,Chicago,IL,60602,41.8838107238422,-87.6270385870331,596,3.0,$$
+438,Rangoli,2421 W North Ave,,,Chicago,IL,60647,41.910198,-87.68809,594,4.0,$$
+439,Ping Pong,3322 N Broadway St,,,Chicago,IL,60657,41.9424108,-87.6446454,594,3.5,$$
+440,Kings Dining & Entertainment - Rosemont,5505 Park Pl,,,Rosemont,IL,60018,41.97909,-87.86809,594,3.5,$$
+441,The Rosebud,1500 W Taylor St,,,Chicago,IL,60607,41.869524,-87.664293,594,4.0,$$
+442,Lou Malnati's Pizzeria,6649 N Lincoln Ave,,,Lincolnwood,IL,60712,42.0021534,-87.7255547,593,4.0,$$
+443,Uncle Mike's Place,1700 W Grand Ave,,,Chicago,IL,60622,41.89117,-87.66986,593,4.0,$$
+444,Monti's,4757 N Talman Ave,,,Chicago,IL,60625,41.968266340068,-87.694936727407,592,4.5,$$
+445,Yummy Yummy Asian Cuisine,2901 N Broadway St,,,Chicago,IL,60657,41.9351256288396,-87.6440628857616,592,4.0,$
+446,The Bongo Room,5022 N Clark St,,,Chicago,IL,60640,41.973183,-87.668348,591,4.0,$$
+447,Gale Street Inn,4914 N Milwaukee Ave,,,Chicago,IL,60630,41.9699747728431,-87.762835174799,589,4.0,$$
+448,True Food Kitchen,1 W Erie St,,,Chicago,IL,60654,41.8939058892114,-87.6285624504089,587,4.5,$$
+449,Fat Cat,4840 N Broadway St,,,Chicago,IL,60640,41.9701070447662,-87.6599332164817,586,3.5,$$
+450,Native Foods Cafe,1484 N Milwaukee Ave,,,Chicago,IL,60622,41.90866,-87.67531,586,4.0,$$
+451,Farmhouse Evanston,703 Church St,,,Evanston,IL,60201,42.0484161,-87.6807709,585,3.5,$$
+452,Dao Thai,230 E Ohio St,,,Chicago,IL,60611,41.8927292530664,-87.6213921496716,584,3.0,$$
+453,Benny’s Chop House,444 N Wabash Ave,,,Chicago,IL,60611,41.89065,-87.62698,583,4.0,$$$$
+454,Cité,505 N Lake Shore Dr,,"Lake Point Tower, Fl 70",Chicago,IL,60611,41.89153,-87.61272,581,3.0,$$$$
+455,Broken English Taco Pub - The Loop,75 E. Lake St,,,Chicago,IL,60601,41.885722438168,-87.6250369825827,581,3.5,$$
+456,Wow Bao,835 N Michigan Ave,,Lobby Level,Chicago,IL,60611,41.8979009401519,-87.6237559318542,581,3.5,$
+457,Little Bucharest Bistro,3661 N Elston Ave,,,Chicago,IL,60618,41.94799,-87.7105,580,4.5,$$
+458,Pittsfield Cafe,55 E Washington St,,,Chicago,IL,60602,41.883263,-87.62597,580,4.0,$
+459,Connie's Pizza,2373 S Archer Ave,,,Chicago,IL,60616,41.849488,-87.641036,579,3.5,$$
+460,Toast,2046 N Damen Ave,,,Chicago,IL,60647,41.91909,-87.67794,579,4.0,$$
+461,Hutch American Bistro,3301 N Clark St,,,Chicago,IL,60657,41.9419518,-87.6521806,578,3.5,$$
+462,Blind Faith Cafe,525 Dempster St,,,Evanston,IL,60201,42.0413603806656,-87.6800817142775,576,3.5,$$
+463,Fireside Restaurant,5739 N Ravenswood Ave,,,Chicago,IL,60660,41.9861937390532,-87.6745010637543,575,3.5,$$
+464,Parachute,3500 N Elston Ave,,,Chicago,IL,60618,41.944707,-87.706518,574,4.0,$$$
+465,Publican Quality Meats,825 W Fulton Market St,,,Chicago,IL,60607,41.8866482860074,-87.648498128403,574,4.0,$$
+466,Caro Mio,1833 W Wilson Ave,,,Chicago,IL,60640,41.9651506,-87.6758369,574,4.0,$$
+467,Kai Sushi,1255 S State St,,,Chicago,IL,60605,41.865935633459,-87.6271085681229,574,4.0,$$
+468,Latinicity,108 N State St,,,Chicago,IL,60602,41.883737829018,-87.6286784939178,574,3.0,$$
+469,Bangers & Lace,1670 W Division St,,,Chicago,IL,60622,41.90357,-87.67023,573,3.5,$$
+470,DS Tequila Company,3352 N Halsted St,,,Chicago,IL,60657,41.943329,-87.649523,569,3.5,$$
+471,La Pasadita,1140 N Ashland Ave,,,Chicago,IL,60622,41.90272,-87.66783,568,3.5,$
+472,Hot Woks Cool Sushi,30 S Michigan Ave,,,Chicago,IL,60603,41.88114,-87.625,567,3.5,$$
+473,Cozy Corner Restaurant & Pancake House,2294 N Milwaukee Ave,,,Chicago,IL,60647,41.92244,-87.69707,567,4.0,$
+474,Gus's World Famous Fried Chicken,847 W Fulton Market,,,Chicago,IL,60607,41.8866488028888,-87.6494031537698,565,4.0,$$
+475,Club Lucky,1824 W Wabansia Ave,,,Chicago,IL,60622,41.91256,-87.67367,564,4.0,$$
+476,Duke Of Perth,2913 N Clark St,,,Chicago,IL,60657,41.93525,-87.64648,564,4.0,$$
+477,Tapas Valencia,1530 S State St,,,Chicago,IL,60605,41.861043,-87.628155,563,4.0,$$
+478,Trattoria No. 10,10 N Dearborn St,,,Chicago,IL,60602,41.8824272155762,-87.6296997070312,561,4.0,$$$
+479,Cellars Bar and Grill,5900 N Broadway,,,Chicago,IL,60660,41.98922,-87.66065,560,4.0,$$
+480,Susie's,4126-30 W Montrose Ave,,,Chicago,IL,60641,41.9610567357401,-87.7311233740283,560,3.5,$
+481,La Villa Restaurant,3638 N Pulaski Rd,,,Chicago,IL,60641,41.94754,-87.72775,559,4.0,$$
+482,Russian Tea Time,77 E Adams St,,,Chicago,IL,60603,41.8793955,-87.6252218,559,4.0,$$$
+483,3rd Coast Cafe,1260 N Dearborn St,Goethe,,Chicago,IL,60610,41.90565,-87.63047,559,4.0,$$
+484,The Boundary Tavern & Grille,1932 W Division St,,,Chicago,IL,60622,41.9033149,-87.676244,557,3.0,$$
+485,Adobe Gilas,5455 Park Pl,,,Rosemont,IL,60018,41.97871,-87.867415,557,2.0,$$
+486,Rocks Lakeview,3463 N Broadway St,,,Chicago,IL,60657,41.945222,-87.6457269,557,3.5,$$
+487,Flat Top Grill,30 S Wabash Ave,,,Chicago,IL,60603,41.8811622,-87.6263129,557,3.5,$$
+488,Alegrias Seafood Chicago,1024 N Ashland Ave,,,Chicago,IL,60622,41.90046,-87.66776,557,4.0,$$
+489,Ramen Takeya,819 W Fulton Market,,,Chicago,IL,60607,41.8865399,-87.64833,556,4.0,$$
+490,Pasta Palazzo,1966 N Halsted St,,,Chicago,IL,60614,41.9179153442383,-87.6488494873047,555,4.0,$$
+491,Blue Agave Tequila Bar & Restaurant,1050 N State St,,,Chicago,IL,60610,41.901776202997,-87.628835244559,552,3.0,$$
+492,Cai,2100 S Archer Ave,Ste 2F,,Chicago,IL,60616,41.85454,-87.63225,552,3.5,$$
+493,Copper Fox Gastropub,155 East Ontario St,,,Chicago,IL,60611,41.8932151,-87.6233697,551,4.5,$$
+494,Riva Crabhouse,700 E Grand Ave,,,Chicago,IL,60611,41.8912822498008,-87.6046678661705,550,3.5,$$$
+495,Koi Fine Asian Cuisine & Lounge,624 Davis St,,,Evanston,IL,60201,42.0464066,-87.6810951,550,3.5,$$
+496,Kitschn on Roscoe,2005 W Roscoe St,,,Chicago,IL,60618,41.94293,-87.67878,550,3.5,$$
+497,Seoul Taco,738 N Clark St,,,Chicago,IL,60654,41.8959233394607,-87.6313957501562,549,4.0,$
+498,Elephant & Castle,185 N Wabash Ave,,,Chicago,IL,60601,41.8855099,-87.62603,549,3.0,$$
+499,Fogo de Chão Brazilian Steakhouse,5460 Park Pl,,,Rosemont,IL,60018,41.977265,-87.868219,548,4.0,$$$
+500,Devil Dawgs -  South State,767 S State St,,,Chicago,IL,60605,41.87207,-87.6271,548,4.0,$
+501,Bad Hunter,802 W Randolph St,,,Chicago,IL,60607,41.88463,-87.64769,548,4.0,$$
+502,Wow Bao,1 W Wacker Dr,Ste 107,,Chicago,IL,60601,41.8859149826022,-87.6282665232788,547,3.5,$
+503,El Mariachi Tequila Bar & Grill,3906 N Broadway St,,,Chicago,IL,60613,41.95309,-87.65002,547,3.5,$$
+504,Kizuki Ramen & Izakaya,1482 N Milwaukee Ave,,,Chicago,IL,60622,41.9086527897632,-87.6750511915684,547,4.0,$$
+505,Shake Shack,12 S Michigan Ave,,,Chicago,IL,60603,41.881664,-87.624969,545,3.5,$$
+506,Ay Ay Picante,4569 N Elston Ave,,,Chicago,IL,60630,41.964112,-87.734107,544,4.0,$$
+507,Kama Bistro,9 S La Grange Rd,,,La Grange,IL,60525,41.8156485621798,-87.8696056963878,544,4.0,$$
+508,Salam Restaurant,4636 N Kedzie Ave,,,Chicago,IL,60625,41.9657874,-87.708574,544,4.0,$
+509,Bongiorno's Italian Deli & Pizzeria,405 N Wabash Ave,,,Chicago,IL,60611,41.8897666931152,-87.6260147094727,544,4.0,$
+510,Schubas Tavern,3159 N Southport Ave,,,Chicago,IL,60657,41.93965,-87.66343,543,4.0,$$
+511,Oysy Sushi,50 E Grand Ave,,,Chicago,IL,60611,41.8918176,-87.6263132,543,3.5,$$
+512,Soulwich,1634 Orrington Ave,,,Evanston,IL,60201,42.0474421,-87.6813617,542,4.5,$
+513,Chief O'Neill's Pub & Restaurant,3471 N Elston Ave,,,Chicago,IL,60618,41.94462,-87.70553,541,4.0,$$
+514,Swift & Sons,1000 W Fulton Market,,,Chicago,IL,60607,41.8869073066802,-87.6525044962951,540,4.0,$$$$
+515,Brightwok Kitchen,21 E Adams St,,,Chicago,IL,60603,41.8794583529234,-87.6270027458668,540,4.5,$$
+516,Zizi's Cafe,2825 N Sheffield Ave,,,Chicago,IL,60657,41.9333149343307,-87.6537242180222,540,4.5,$$
+517,Pho's Spicier Thai Cuisine,3332 N Lincoln Ave,,,Chicago,IL,60657,41.942444,-87.670869,540,4.0,$
+518,Fatpour Tap Works,2005 W Division St,,,Chicago,IL,60622,41.90289,-87.67762,540,4.0,$$
+519,Kamehachi,1531 N Wells St,,,Chicago,IL,60610,41.910041809082,-87.6342239379883,540,3.5,$$
+520,Eggy's Diner,333 E Benton Pl,Ste 103,,Chicago,IL,60601,41.8851851,-87.6185829,537,4.0,$$
+521,Omega Restaurant & Bakery,9100 W Golf Rd,,,Niles,IL,60714,42.054547,-87.85257,537,3.5,$$
+522,Taza Cafe,176 N Franklin St,,,Chicago,IL,60606,41.88528255359,-87.635568761842,536,4.5,$
+523,Bijan's Bistro,663 N State St,,,Chicago,IL,60654,41.8940736918469,-87.627911625864,535,3.5,$$
+524,Jim's Original Hot Dog,1250 S Union Ave,,,Chicago,IL,60607,41.86577,-87.64537,535,4.0,$
+525,Valois,1518 E 53rd St,,,Chicago,IL,60615,41.7996023966401,-87.5883720218115,535,4.0,$
+526,Flash Taco,1570 N Damen Ave,,,Chicago,IL,60622,41.9098629,-87.677647,534,2.0,$
+527,Taqueria El Asadero,2213 W Montrose Ave,,,Chicago,IL,60618,41.9612451,-87.6842599,533,4.0,$
+528,Uru Swati,2629 W Devon Ave,,,Chicago,IL,60659,41.99736,-87.69573,533,3.5,$
+529,Tac Quick,1011 W Irving Park Rd,,,Chicago,IL,60613,41.9543649401989,-87.6550871455236,532,4.0,$$
+530,Exchequer Restaurant & Pub,226 S Wabash Ave,,,Chicago,IL,60604,41.8787384660152,-87.6263198788816,531,3.5,$$
+531,Barcocina - Chicago,2901 N Sheffield Ave,,,Chicago,IL,60657,41.9347,-87.65359,531,3.5,$$
+532,Jimmy's Pizza Café,5159 N Lincoln Ave,,,Chicago,IL,60625,41.9757474517431,-87.6921836227971,530,4.5,$
+533,Semiramis,4639 N Kedzie Ave,,,Chicago,IL,60625,41.9658426,-87.7082133,529,4.0,$$
+534,Bar on Buena,910 W Buena Ave,,,Chicago,IL,60613,41.9585637,-87.653337,529,4.0,$$
+535,Bistronomic,840 N Wabash Ave,,,Chicago,IL,60611,41.8979072566376,-87.6272430870994,529,4.0,$$$
+536,Tava Fresh Taste of India,7172 Dempster St,,,Morton Grove,IL,60053,42.041477,-87.805516,528,4.0,$$
+537,Pete's Pizza & Restaurant,3737 N Western Ave,,,Chicago,IL,60618,41.94968,-87.68794,528,3.5,$$
+538,Kingston Mines,2548 N Halsted St,,,Chicago,IL,60614,41.92869,-87.64922,527,4.0,$$
+539,Freddy's Pizza,1600 S 61st Ave,,,Cicero,IL,60804,41.857962,-87.776681,527,4.5,$
+540,Spiaggia,980 N Michigan Ave,Fl 2,,Chicago,IL,60611,41.900622,-87.624411,525,4.0,$$$$
+541,The Marq,60 West Adams St,,,Chicago,IL,60603,41.8796191,-87.6299253,524,4.0,$$
+542,Fleming's Prime Steakhouse & Wine Bar - Chicago,25 E Ohio St,,,Chicago,IL,60611,41.89227,-87.62703,523,4.0,$$$
+543,Tapas Barcelona,1615 Chicago Ave,,,Evanston,IL,60201,42.0464606,-87.6793354,523,3.5,$$
+544,El Cid 2,2645 N Kedzie Ave,,,Chicago,IL,60647,41.92974,-87.70702,523,3.5,$$
+545,Sultan's Market,2521 N Clark St,,,Chicago,IL,60614,41.9284272,-87.6420285,523,4.0,$
+546,Southport & Irving SIP,4000 N Southport Ave,,,Chicago,IL,60613,41.95452,-87.6644318,521,4.0,$$
+547,Kopi Travelers Cafe,5317 N Clark St,,,Chicago,IL,60640,41.97859,-87.66796,521,4.0,$$
+548,Seadog Sushi Bar,1500 W Division St,,,Chicago,IL,60642,41.9034363603087,-87.6652242288361,519,4.0,$$
+549,New Rebozo,1116 Madison St,,,Oak Park,IL,60302,41.879809,-87.8031169,519,4.0,$$
+550,North Pond,2610 N Cannon Dr,,,Chicago,IL,60614,41.92931,-87.636616,519,4.0,$$$$
+551,Estrella Negra,2346 W Fullerton Ave,,,Chicago,IL,60647,41.925175,-87.68706,517,4.0,$$
+552,Taste of Peru,6545 N Clark St,,,Chicago,IL,60626,42.0013353048183,-87.6713513324772,517,4.0,$$
+553,Elephant & Castle,111 West Adams St,,,Chicago,IL,60603,41.879309125108,-87.631175724772,516,3.5,$$
+554,Janik's Cafe,2011 W Division St,,,Chicago,IL,60622,41.9030612,-87.677777,515,4.0,$
+555,Q-BBQ,70 South La Grange Rd,,,La Grange,IL,60525,41.813009540863,-87.869757101193,514,4.0,$$
+556,Nookies Edgewater,1100 W Bryn Mawr Ave,,,Chicago,IL,60660,41.98395,-87.65824,514,4.0,$$
+557,Harry Caray's Tavern -Navy Pier,700 E Grand Ave,,,Chicago,IL,60611,41.8916034336946,-87.6092710221137,514,3.0,$$
+558,Kabobi Grill,4748 N Kedzie Ave,,,Chicago,IL,60625,41.9680551997115,-87.7086880803108,514,4.5,$$
+559,Schwa,1466 N Ashland Ave,,,Chicago,IL,60622,41.90892,-87.66793,512,4.0,$$$$
+560,Burger Bar Chicago - South Loop,1150 S Michigan Ave,,,Chicago,IL,60605,41.867902,-87.62438,512,4.0,$$
+561,Hing Kee Restaurant,2140 S Archer Ave,,,Chicago,IL,60616,41.853948,-87.633651,512,3.5,$$
+562,Nando's PERi-PERi,953 W Randolph St,,,Chicago,IL,60607,41.8840715,-87.6513439,512,4.0,$$
+563,Original Pancake House,22 E Bellevue Pl,,,Chicago,IL,60611,41.90178,-87.62744,511,4.0,$$
+564,Michael's Pizzeria & Tavern,4091 N Broadway St,,,Chicago,IL,60613,41.9568480328734,-87.6518151894969,511,4.0,$$
+565,Stax Cafe,1401 W Taylor St,,,Chicago,IL,60607,41.8691,-87.66184,509,3.5,$$
+566,Roister,951 W Fulton Market,,,Chicago,IL,60607,41.886524,-87.6518661,509,4.0,$$$$
+567,The Chicago Firehouse Restaurant,1401 S Michigan Ave,,,Chicago,IL,60605,41.86397,-87.62361,509,3.5,$$$
+568,Lowcountry Lakeview,3343 N Clark St,,,Chicago,IL,60657,41.942883,-87.6528328,508,4.5,$$
+569,La Vaca Margarita Bar,1160 W 18th St,,,Chicago,IL,60608,41.8579816,-87.6557881,508,3.0,$$
+570,La Cantina Grill,1911 S Michigan Ave,,,Chicago,IL,60616,41.85627,-87.62344,507,3.5,$$
+571,The Promontory,5311 S Lake Park Ave W,,,Chicago,IL,60615,41.7990212143351,-87.5876317538372,507,3.5,$$
+572,Siam Rice,117 N Wells St,,,Chicago,IL,60606,41.8836361,-87.633697,507,3.5,$$
+573,Kanela Breakfast Club,502 E Illinois St,,,Chicago,IL,60611,41.8912549,-87.6138566,507,3.5,$$
+574,The Kitchen,316 N Clark St,,,Chicago,IL,60654,41.8880238,-87.6312069,507,4.0,$$$
+575,Tiztal Cafe,4631 N Clark St,,,Chicago,IL,60640,41.96621,-87.66657,506,4.5,$$
+576,Peckish Pig,623 Howard St,,,Evanston,IL,60202,42.0195832181394,-87.6793877759551,506,4.0,$$
+577,Burt's Place,8541 N Ferris Ave,,,Morton Grove,IL,60053,42.0369,-87.78461,505,4.0,$$
+578,Le Bouchon,1958 N Damen Ave,,,Chicago,IL,60647,41.91756,-87.67792,504,4.0,$$$
+579,Mirai Sushi - Wicker Park,2020 W Division St,,,Chicago,IL,60622,41.9034767150879,-87.67822265625,504,4.0,$$$
+580,Buddy Guy's Legends,700 S Wabash Ave,,,Chicago,IL,60605,41.8730157686049,-87.6262064974468,504,4.0,$$
+581,Bon Bon Sandwiches,2333 W North Ave,,,Chicago,IL,60647,41.91007,-87.68621,504,3.5,$
+582,Forno Rosso Pizzeria Napoletana,3719 N Harlem Ave,,,Chicago,IL,60634,41.94767,-87.80672,502,4.5,$$
+583,Pho 777,1065 W Argyle St,,,Chicago,IL,60640,41.973307,-87.657436,502,3.5,$
+584,Chicago's Home of Chicken & Waffles II,543 Madison St,,,Oak Park,IL,60302,41.87952,-87.78887,502,3.5,$$
+585,The Burger Point,1900 S State St,,,Chicago,IL,60616,41.8562862457147,-87.6273884868141,501,4.0,$$
+586,Wakamono,3313 N Broadway Ave,,,Chicago,IL,60657,41.9423546,-87.6442834,500,3.5,$$
+587,M Burger,161 E Huron St,,,Chicago,IL,60611,41.8948137,-87.6235759,500,3.5,$
+588,Rocking Horse,2535 N Milwaukee Ave,,,Chicago,IL,60647,41.9275588989258,-87.7044525146484,499,3.5,$$
+589,Logan Bar,2230 N California Ave,,,Chicago,IL,60647,41.9225997924805,-87.6976165771484,498,3.5,$$
+590,Ann Sather Restaurant,3411 N Broadway St,,,Chicago,IL,60657,41.9434200734942,-87.6448059082031,498,4.0,$$
+591,The Grafton,4530 N Lincoln Ave,,,Chicago,IL,60625,41.96393,-87.68587,497,4.0,$$
+592,Takito Kitchen,2013 W Division St,,,Chicago,IL,60622,41.90289,-87.67784,497,4.0,$$
+593,Andies Restaurant,5253 N Clark St,,,Chicago,IL,60640,41.9775873,-87.6681818,497,3.5,$$
+594,White Palace Grill,1159 S Canal St,,,Chicago,IL,60607,41.8675498962402,-87.6389694213867,497,3.5,$
+595,Lucky's Sandwich Company,3472 N Clark St,,,Chicago,IL,60657,41.9452476501465,-87.6553497314453,496,3.5,$$
+596,South Coast Sushi,1700 S Michigan Ave,,,Chicago,IL,60616,41.8589015950675,-87.6242748306885,496,4.0,$$
+597,Foodlife,835 N Michigan Ave,,Water Tower Pl,Chicago,IL,60611,41.898204,-87.623811,496,3.5,$$
+598,Dawali Mediterranean Kitchen,1625 N Halsted St,,,Chicago,IL,60614,41.9117,-87.64793,495,4.0,$$
+599,Furious Spoon - Logan Square,2410 N Milwaukee Ave,,,Chicago,IL,60647,41.9249801635742,-87.7010879516602,493,4.0,$$
+600,Soupbox,2943 N Broadway St,,,Chicago,IL,60657,41.936229,-87.644115,492,4.0,$
+601,Nori Sushi Bar - Lakeview,954 W Diversey Pkwy,,,Chicago,IL,60614,41.932718,-87.653535,491,4.0,$$
+602,Carbon,300 W 26th St,,,Chicago,IL,60616,41.84561,-87.63487,491,3.5,$
+603,Ada Street,1664 N Ada St,,,Chicago,IL,60642,41.9124416,-87.6620728,489,4.0,$$$
+604,Bubba Gump Shrimp Co.,700 E Grand Ave,Ste 131,,Chicago,IL,60611,41.8914094,-87.6096291,488,3.0,$$
+605,Nia,803 W Randolph St,,,Chicago,IL,60607,41.8842587674927,-87.647677094592,488,3.5,$$
+606,Chengdu Impression,2545 N Halsted St,,,Chicago,IL,60614,41.9286079,-87.648514,488,4.0,$$
+607,Sugar Factory - American Brasserie,55 E Grand Ave,,,Chicago,IL,60611,41.8913867352473,-87.626222289853,487,3.0,$$
+608,Pinstripes,435 E Illinois St,,,Chicago,IL,60611,41.8908475350465,-87.6161211240793,487,4.0,$$
+609,Bat 17,1709 Benson Ave,,,Evanston,IL,60201,42.0487146411816,-87.683074744414,487,4.0,$$
+610,Papa's Cache Sabroso,2517 W Division St,,,Chicago,IL,60622,41.90268,-87.6902,486,4.0,$
+611,La Sirena Clandestina,954 W Fulton Market,,,Chicago,IL,60607,41.887103,-87.651697,486,4.0,$$
+612,BRGRBELLY,5739 W Irving Park Rd,,,Chicago,IL,60634,41.9530335,-87.7709816,486,4.5,$$
+613,H Mart - Niles,801 Civic Center Dr.,,,Niles,IL,60714,42.0233151,-87.80178,486,4.0,$$
+614,State and Lake Chicago Tavern,theWit Hotel,201 N State St,,Chicago,IL,60601,41.885777,-87.627901,485,3.5,$$
+615,Anteprima,5316 N Clark St,,,Chicago,IL,60640,41.978573511319,-87.6684763732404,485,4.0,$$$
+616,Wood,3335 N Halsted St,,,Chicago,IL,60657,41.942829280388,-87.649184667136,485,4.0,$$
+617,SideDoor,100 E Ontario St,,,Chicago,IL,60611,41.893543,-87.625046,484,4.0,$$
+618,Found Kitchen & Social House,1631 Chicago Ave,,,Evanston,IL,60201,42.047188,-87.678656,484,3.5,$$
+619,The Lucky Platter,514 Main St,,,Evanston,IL,60202,42.033825301993,-87.67835126566,483,3.5,$$
+620,Native Foods Cafe,1023 W Belmont Ave,,,Chicago,IL,60657,41.9397892506553,-87.655069123534,480,4.0,$$
+621,The Barrelhouse Flat,2624 N Lincoln Ave,,,Chicago,IL,60614,41.92945,-87.65478,480,4.0,$$
+622,Gino's East - River North,500 N LaSalle St,,,Chicago,IL,60654,41.8910112,-87.6328052,479,3.5,$$
+623,Goddess and Grocer,1649 N Damen Ave,,,Chicago,IL,60647,41.91192,-87.67714,478,3.5,$$
+624,Machu Picchu Restaurant,3856 N Ashland Ave,,,Chicago,IL,60613,41.9516650316681,-87.6690340870022,478,4.0,$$
+625,Krolls South Loop,1736 S Michigan Ave,,,Chicago,IL,60616,41.858036,-87.62442,477,3.0,$$
+626,Remington's,20 N Michigan Ave,,,Chicago,IL,60602,41.88266,-87.62499,477,4.0,$$
+627,Sam & George's,3000 N Lincoln Ave,,,Chicago,IL,60657,41.93624,-87.66418,477,4.0,$$
+628,Naf Naf Grill,326 N Michigan Ave,,,Chicago,IL,60601,41.887581,-87.624981,475,4.5,$
+629,Ahjoomah's Apron,218 W Cermak Rd,,,Chicago,IL,60616,41.8531265258789,-87.6323623657227,475,3.5,$$
+630,Wholly Frijoles,3908 W Touhy Ave,,,Lincolnwood,IL,60712,42.0118949,-87.7265857,474,3.5,$$
+631,Pita Inn,4710 Dempster St,,,Skokie,IL,60076,42.0408949,-87.7449033,474,4.5,$
+632,Burger Antics,3740 Grand Blvd,,,Brookfield,IL,60513,41.82266,-87.84498,472,4.5,$$
+633,Lucky Strike,322 E Illinois St,,,Chicago,IL,60611,41.8910981,-87.6190833,472,2.5,$$
+634,Jerry's,5419 N Clark St,,,Chicago,IL,60640,41.980476,-87.667969,472,3.0,$$
+635,J.P. Graziano Grocery,901 W Randolph St,,,Chicago,IL,60607,41.88405,-87.65001,470,4.5,$
+636,Cornerstone Cafe,2753 N Western Ave,,,Chicago,IL,60618,41.9317200792018,-87.6877212524414,470,4.0,$
+637,Beacon Tavern,405 N Wabash Ave,,,Chicago,IL,60611,41.88945,-87.62647,470,4.0,$$
+638,Bar Takito,201 N Morgan St,,,Chicago,IL,60607,41.8857,-87.6519851,470,4.0,$$
+639,Enoteca Roma Ristorante,2146 W Division St,,,Chicago,IL,60622,41.903222,-87.6816573,469,4.0,$$
+640,Sushi X,1136 W Chicago Ave,,,Chicago,IL,60642,41.896362,-87.656584,467,4.0,$$
+641,Bagel Restaurant & Deli,3107 N Broadway St,,,Chicago,IL,60657,41.937969,-87.643983,467,3.5,$$
+642,Happy Camper,1209 N Wells St,,,Chicago,IL,60610,41.9042336,-87.6343073,467,4.0,$$
+643,Stella Barra Pizzeria,1954 N Halsted St,,,Chicago,IL,60614,41.917657,-87.648684,466,4.0,$$
+644,Labriola,535 N Michigan Ave,,,Chicago,IL,60611,41.8919830322266,-87.6235427856445,466,3.5,$$
+645,Band of Bohemia,4710 N Ravenswood Ave,,,Chicago,IL,60640,41.9676094055176,-87.6751098632812,465,4.0,$$$
+646,I|O Godfrey,127 W Huron At Lasalle,,,Chicago,IL,60654,41.8946369886093,-87.6319992814758,464,3.5,$$$
+647,Señor Pan Cafe,4612 W Fullerton Ave,,,Chicago,IL,60639,41.9244149,-87.7423467,464,4.0,$$
+648,Nepal House Indian & Nepalese,1301 S Michigan Ave,,,Chicago,IL,60605,41.8656524,-87.623901,463,4.0,$$
+649,Barrio,65 W Kinzie St,,,Chicago,IL,60654,41.8890751,-87.6302265,463,4.0,$$$
+650,UB Dogs,185 N Franklin St,,,Chicago,IL,60606,41.885406019773,-87.635216774701,463,4.5,$
+651,Fremont,15 W Illinois St,,,Chicago,IL,60654,41.89063,-87.6287,463,4.0,$$
+652,Wildberry Pancakes and Cafe,196 E Pearson St,,,Chicago,IL,60611,41.8976571762046,-87.6220511853708,462,4.5,$$
+653,Meli Cafe,500 S Dearborn St,,,Chicago,IL,60605,41.875586,-87.629506,462,3.5,$$
+654,Gemini,2075 N Lincoln Ave,,,Chicago,IL,60614,41.9200319,-87.640967,462,4.0,$$$
+655,The Franklin Room,675 N Franklin St,,,Chicago,IL,60654,41.8944245,-87.6354674,462,4.0,$$
+656,Woori Village,8526 W Golf Rd,,,Niles,IL,60714,42.057315,-87.837172,462,2.5,$$
+657,Al's Beef,1079 W Taylor St,,,Chicago,IL,60607,41.8692398071289,-87.6540603637695,461,3.5,$
+658,Orange,2011 W Roscoe St,,,Chicago,IL,60618,41.9429299,-87.67896,461,3.5,$$
+659,Max's Take Out,20 E Adams St,,,Chicago,IL,60603,41.87972,-87.62688,460,4.0,$
+660,il Porcellino,59 W Hubbard,,,Chicago,IL,60654,41.88979,-87.6303,460,4.5,$$
+661,Gino's East - South Loop,521 S Dearborn St,,,Chicago,IL,60605,41.87522,-87.62895,460,3.5,$$
+662,Vincent Restaurant,1475 W Balmoral Ave,,,Chicago,IL,60640,41.9798175448213,-87.6675344363907,460,4.0,$$$
+663,The Halal Guys,49 W Division St,,,Chicago,IL,60610,41.9037925,-87.6304625,459,3.5,$
+664,Reno,2607 N Milwaukee Ave,,,Chicago,IL,60647,41.929155,-87.707174,459,4.0,$$
+665,Laschet's Inn,2119 W Irving Park Rd,,,Chicago,IL,60618,41.95381,-87.68198,459,4.5,$$
+666,Swirlz Cupcakes,705 W Belden Ave,,,Chicago,IL,60614,41.9235077,-87.6466326,457,4.0,$$
+667,Marmalade,1969 W Montrose St,,,Chicago,IL,60625,41.9613517672074,-87.6787366428512,457,3.5,$$
+668,Francesca's on Taylor,1400 W Taylor St,,,Chicago,IL,60607,41.869426,-87.6617842,456,4.0,$$
+669,J B Alberto's Pizza,1326 W Morse Ave,,,Chicago,IL,60626,42.00826,-87.66484,456,3.5,$
+670,Giordano's - Navy Pier,700 E Grand Ave,,,Chicago,IL,60611,41.891823,-87.60966,456,3.5,$$
+671,Mrs. Murphy & Sons Irish Bistro,3905 N Lincoln Ave,,,Chicago,IL,60613,41.9526899,-87.67732,456,4.0,$$
+672,Giordano's,1040 W Belmont Ave,,,Chicago,IL,60657,41.94014,-87.6557,456,3.5,$$
+673,Tortoise Supper Club,350 N State St,,,Chicago,IL,60654,41.8887554967998,-87.6282440151018,453,4.0,$$$
+674,The Boiler Shrimp & Crawfish,3445 Dempster St,,,Skokie,IL,60076,42.040548732004,-87.7151066778672,453,4.0,$$
+675,D'Agostino's Pizza & Pub,1351 W Addison St,,,Chicago,IL,60613,41.946979,-87.663756,452,3.0,$$
+676,Floriole Cafe & Bakery,1220 W Webster Ave,,,Chicago,IL,60614,41.921956,-87.659199,451,4.0,$$
+677,Monk's Pub,205 W Lake St,,,Chicago,IL,60606,41.885467,-87.634284,451,3.5,$$
+678,Ora,5143 N Clark St,,,Chicago,IL,60640,41.975647,-87.668127,451,4.5,$$
+679,Brownstone Tavern & Grill,3937 N Lincoln Ave,,,Chicago,IL,60613,41.9533996582031,-87.6778411865234,451,3.5,$$
+680,Plymouth Rooftop Bar & Grill,327 S Plymouth Ct,,,Chicago,IL,60604,41.877483,-87.6284529,451,3.0,$$
+681,Duffy's Tavern and Grille,420 W Diversey Pkwy,,,Chicago,IL,60614,41.9331855773926,-87.640380859375,450,3.0,$$
+682,Taqueria Moran,2226 N California Ave,,,Chicago,IL,60647,41.9225235,-87.6975327,449,4.0,$
+683,Bub City,5441 Park Pl,,,Rosemont,IL,60018,41.9783738,-87.8673951,449,3.5,$$
+684,Serai,2169 N Milwaukee Ave,,,Chicago,IL,60647,41.9206132,-87.6933394,449,4.5,$$
+685,Zia's Lago Vista,3819 N Ashland Ave,,,Chicago,IL,60613,41.9513,-87.66847,449,4.0,$$
+686,Staropolska Restaurant,3030 N Milwaukee Ave,,,Chicago,IL,60618,41.936365,-87.719246,449,4.5,$$
+687,La Ciudad,4515 N Sheridan Rd,,,Chicago,IL,60640,41.9640599191189,-87.6546938717365,449,4.0,$$
+688,Brazilian Bowl,3204 N Broadway St,,,Chicago,IL,60657,41.940256,-87.644653,448,4.0,$
+689,Headquarters Beercade River North,213 W Institute Pl,,,Chicago,IL,60610,41.89718,-87.6352,447,4.0,$$
+690,Fahlstrom's Fresh Fish Market,1258 W Belmont Ave,,,Chicago,IL,60657,41.94009,-87.66114,447,4.0,$$
+691,Steak 48,615 N Wabash Ave,,,Chicago,IL,60611,41.893,-87.62637,446,4.5,$$$$
+692,Elly's Pancake House,5050 N Cumberland Ave,,,Norridge,IL,60706,41.972023,-87.837364,446,4.0,$$
+693,Kaufman's,4905 Dempster St,,,Skokie,IL,60077,42.0404803187774,-87.7497350723094,446,4.0,$$
+694,Psistaria Greek Taverna,4711 W Touhy Ave,,,Lincolnwood,IL,60712,42.01151,-87.74571,446,4.0,$$
+695,Sakura Teppanyaki & Sushi,730 W Diversey Pkwy,,,Chicago,IL,60614,41.9327257564786,-87.6478314399719,445,3.5,$$
+696,Flaco's Tacos,46 E Chicago Ave,,,Chicago,IL,60611,41.8968449,-87.626505,445,3.5,$
+697,Dak,1104 W Granville Ave,,,Chicago,IL,60660,41.9946798,-87.6586452,444,4.0,$$
+698,Volo Restaurant Wine Bar,2008 W Roscoe St,,,Chicago,IL,60618,41.9433228,-87.6788849,442,3.5,$$
+699,Acadia,1639 S Wabash Ave,,,Chicago,IL,60616,41.859047,-87.625243,442,4.0,$$$$
+700,Pancho Pistolas,700 W 31st St,,,Chicago,IL,60616,41.8382999,-87.64402,442,3.5,$$
+701,BITES,3313 N Clark St,,,Chicago,IL,60657,41.94221,-87.65209,441,4.0,$$
+702,The Piggery,1625 W Irving Park Rd,,,Chicago,IL,60613,41.953971,-87.669979,440,3.5,$$
+703,Habana Libre Restaurant,1440 W Chicago Ave,,,Chicago,IL,60642,41.8962642,-87.6640126,440,4.0,$$
+704,Sen Sushi Bar,814 S Oak Park Ave,,,Oak Park,IL,60304,41.87361,-87.7937,440,4.5,$$
+705,Pars Cove Restaurant,435 W Diversey Pkwy,,,Chicago,IL,60614,41.932758,-87.640861,440,4.0,$$
+706,Saigon Sisters,567 W Lake St,,,Chicago,IL,60661,41.885619554755,-87.642292864209,439,3.5,$$
+707,Agami,4712 N Broadway St,,,Chicago,IL,60640,41.9674681,-87.6588103,439,4.0,$$
+708,Bella Bacinos,66 E Wacker Pl,,,Chicago,IL,60601,41.8876262742895,-87.6253395404755,438,3.5,$$
+709,Nookies Too,2114 N Halsted St,,,Chicago,IL,60614,41.9205353,-87.6487681,437,4.0,$$
+710,Chilango Mexican Street Food,1437 W Taylor St,,,Chicago,IL,60607,41.869141,-87.663129,437,4.5,$
+711,First Draft,649 S Clark St,,,Chicago,IL,60605,41.873437,-87.630308,436,4.0,$$
+712,Sushi Taku,1904 W Division St,,,Chicago,IL,60622,41.90351,-87.67512,436,4.5,$$
+713,Cafecito,215 E Chestnut St,,,Chicago,IL,60611,41.89804,-87.62127,436,4.5,$
+714,Osaka Sushi Express & Fresh Fruit Smoothies,400 S Michigan Ave,,,Chicago,IL,60605,41.876943,-87.624532,435,4.0,$
+715,La Fournette,1547 N Wells St,,,Chicago,IL,60610,41.9104983,-87.6345168,434,4.5,$
+716,Cocina TARASCAS Mexican Restaurant,2585 N Clark St,,,Chicago,IL,60614,41.9299507,-87.6430564,434,3.5,$$
+717,Canton Regio,1510 W 18th St,,,Chicago,IL,60608,41.858017,-87.6642617,433,4.0,$$
+718,Nookies Tree Restaurant,3334 N Halsted St,,,Chicago,IL,60657,41.94277,-87.6495009,433,4.0,$$
+719,Lotus Cafe & Bánh Mì Sandwiches,719 W Maxwell St,,,Chicago,IL,60607,41.86457,-87.64583,433,4.5,$
+720,P.F. Chang's,530 N Wabash Ave,,,Chicago,IL,60611,41.8919052750496,-87.6269987225533,432,3.0,$$
+721,Formento's,925 W Randolph St,,,Chicago,IL,60607,41.88404,-87.65081,432,4.0,$$$
+722,Lao Sze Chuan - Uptown,4832 N Broadway St,,,Chicago,IL,60640,41.970021,-87.659915,432,3.5,$$
+723,Jubilee Juice & Grill,140 N Halsted St,,,Chicago,IL,60661,41.8840615,-87.6475148,432,4.0,$$
+724,Chant,1509 E 53rd St,,,Chicago,IL,60615,41.7994154258194,-87.588751312442,432,3.5,$$
+725,Hannah's Bretzel,180 W Washington St,,,Chicago,IL,60602,41.8833289982143,-87.6334990814033,431,4.0,$$
+726,Taxim,1558 N Milwaukee Ave,,,Chicago,IL,60622,41.9098026,-87.6767066,430,4.0,$$$
+727,Café Orchid,1746 W Addison St,,,Chicago,IL,60613,41.9470849,-87.6731266,430,4.0,$$
+728,Dave & Buster's,1030 N Clark St,,,Chicago,IL,60610,41.90134,-87.6318,429,2.5,$$
+729,Naansense,171 N Wells St,,,Chicago,IL,60606,41.8852573615387,-87.6336954232788,429,4.0,$
+730,Quesadilla La Reyna del Sur,2335 N Western Ave,,,Chicago,IL,60647,41.92306,-87.686855,428,4.0,$
+731,Jai-Yen,3736 N Broadway St,,,Chicago,IL,60613,41.9501546409325,-87.649023475927,427,3.5,$$
+732,Rise Sushi & Sake Lounge,3401 N Southport Ave,,,Chicago,IL,60657,41.943632,-87.663533,427,3.5,$$
+733,Lawrence's Fish & Shrimp,2120 S Canal St,,,Chicago,IL,60616,41.8539559,-87.6388946,426,3.5,$$
+734,Benchmark,1510 N Wells St,,,Chicago,IL,60610,41.9094721959951,-87.6348476735419,426,3.5,$$
+735,Potsticker House,3139 S Halsted St,,,Chicago,IL,60608,41.836894,-87.645896,426,3.5,$$
+736,Furama Restaurant,4936 N Broadway St,,,Chicago,IL,60640,41.9719356,-87.6599421,424,3.5,$$
+737,Hema's Kitchen,2439 W Devon Ave,,,Chicago,IL,60659,41.99744,-87.69154,423,3.0,$$
+738,Northside Bar & Grill,1635 N Damen Ave,,,Chicago,IL,60647,41.9115333557129,-87.6771469116211,423,3.0,$$
+739,Drew's on Halsted,3201 N Halsted St,,,Chicago,IL,60657,41.9403396556238,-87.6491832733154,422,4.0,$$
+740,Shokran Moroccan Restaurant,4027 W Irving Park,,,Chicago,IL,60641,41.953504,-87.728805,422,4.5,$$
+741,Podhalanka,1549 W Division St,,,Chicago,IL,60642,41.9031971642231,-87.6670556213551,422,4.0,$$
+742,Pannenkoeken Cafe,4757 N Western Ave,,,Chicago,IL,60625,41.9682370444073,-87.6886891946197,421,4.0,$$
+743,The VIG Chicago,1527 N Wells St,,,Chicago,IL,60610,41.9099251,-87.6345035,421,4.0,$$
+744,Maria's Mexican Restaurant,9440 W Foster Ave,,,Chicago,IL,60656,41.9734065,-87.8630522,420,3.5,$$
+745,Mortar & Pestle,3108 N Broadway St,,,Chicago,IL,60657,41.93806,-87.64464,419,4.0,$$
+746,Green Door Tavern,678 N Orleans St,,,Chicago,IL,60654,41.8946215100706,-87.6373652708838,419,4.0,$$
+747,The Capital Grille,5340 N River Rd,,,Rosemont,IL,60018,41.974719796573,-87.8630409334203,418,4.5,$$$$
+748,Ja' Grill Hyde Park,1510 E Harper Ct,,,Chicago,IL,60615,41.8004951,-87.588829,418,3.5,$$
+749,Cozy Noodles & Rice,1018 Davis St,,,Evanston,IL,60201,42.04682,-87.686033,416,3.5,$
+750,Falafel & Grill,1317 N Milwaukee Ave,,,Chicago,IL,60622,41.905891418457,-87.670166015625,415,4.5,$
+751,Union Pizzeria-Evanston,1245 Chicago Ave,,,Evanston,IL,60202,42.0409316616987,-87.6803231586021,415,4.0,$$
+752,Rollapalooza,3344 N Halsted St,,,Chicago,IL,60657,41.94314,-87.64972,415,4.5,$$
+753,Tuscany - Taylor,1014 W Taylor St,,,Chicago,IL,60607,41.869577,-87.651847,415,4.0,$$
+754,The Globe Pub,1934 W Irving Park Rd,,,Chicago,IL,60613,41.954487,-87.677776,415,4.0,$$
+755,Azteca Grill,3731 N Clark St,,,Chicago,IL,60613,41.949852,-87.658374,415,4.0,$
+756,Arturo's Tacos,2001 N Western Ave,,,Chicago,IL,60647,41.91769,-87.68707,414,3.0,$
+757,Portillo's Hot Dogs,520 W Taylor St,,,Chicago,IL,60607,41.8703068,-87.6401416,414,3.0,$
+758,Ken Kee Restaurant,2129 S China Pl,Ste A,,Chicago,IL,60616,41.8543853759766,-87.6333236694336,413,3.5,$$
+759,McCormick & Schmick's Seafood & Steaks,1 E Wacker Dr,,,Chicago,IL,60601,41.8866025,-87.6272253,413,3.0,$$$
+760,Siam Noodle and Rice,4142 N Broadway St,,,Chicago,IL,60613,41.958162,-87.65311,413,4.0,$
+761,Hollywood Grill,1601 W North Ave,,,Chicago,IL,60622,41.910384224074,-87.6680632177234,413,3.0,$
+762,Tecalitlan Restaurant,1814 W Chicago Ave,,,Chicago,IL,60622,41.8962501,-87.672913,413,3.5,$$
+763,Sushi Para M,1633 N Milwaukee Ave,,,Chicago,IL,60647,41.91127,-87.6783899,413,3.0,$$
+764,The Coffee Studio,5628 N Clark St,,,Chicago,IL,60660,41.984327090113,-87.669086660493,413,4.0,$
+765,Mity Nice,835 N Michigan Ave,,,Chicago,IL,60611,41.8981170141684,-87.6232167949677,412,4.0,$$
+766,Renaldi's Pizza Pub,2827 N Broadway St,,,Chicago,IL,60657,41.93361,-87.64435,412,3.5,$$
+767,Gaylord Fine Indian Cuisine,100 E Walton St,,,Chicago,IL,60611,41.900337,-87.62527,412,3.5,$$
+768,Nonnina,340 N Clark St,,,Chicago,IL,60654,41.8883821,-87.6311649,412,4.0,$$
+769,Kanela Breakfast Club,1552 N Wells St,,,Chicago,IL,60610,41.9106713827654,-87.6348489492429,411,3.5,$$
+770,Kaiser Tiger,1415 W Randolph St,,,Chicago,IL,60607,41.883812,-87.662903,411,3.5,$$
+771,The Duck Inn,2701 S Eleanor,,,Chicago,IL,60608,41.8444817593219,-87.6601841065537,410,4.0,$$$
+772,Old Town Pour House,1419 N Wells St,,,Chicago,IL,60610,41.908405,-87.634502,410,3.5,$$
+773,Palmer Place,56 S La Grange Rd,,,La Grange,IL,60525,41.8134714074131,-87.8698181576125,410,3.0,$$
+774,El Habanero,3300 W Fullerton Ave,,,Chicago,IL,60647,41.92496,-87.71099,410,4.5,$
+775,Giordano's,1340 S Michigan,,,Chicago,IL,60605,41.8645637950545,-87.6244,409,3.5,$$
+776,Bombay Wraps,122 N Wells St,,,Chicago,IL,60606,41.8839797555164,-87.6341509183647,409,4.0,$
+777,Zaytune Mediterranean Grill,3129 S Morgan St,,,Chicago,IL,60608,41.8370666503906,-87.6508560180664,409,4.0,$
+778,Birrieria Zaragoza,4852 S Pulaski Rd,,,Chicago,IL,60632,41.80447,-87.72385,409,4.5,$$
+779,III Forks,180 N Field Blvd,,,Chicago,IL,60601,41.88651,-87.61743,406,3.5,$$$
+780,Orso's,1401 N Wells St,,,Chicago,IL,60610,41.90776,-87.63431,406,3.5,$$
+781,Daily Bar & Grill,4560 N Lincoln Ave,,,Chicago,IL,60625,41.9647911,-87.6861706,406,3.5,$$
+782,Pompei,1531 W Taylor St,,,Chicago,IL,60607,41.8691074404,-87.665519190614,405,3.5,$
+783,312 Chicago,136 N LaSalle St,,,Chicago,IL,60602,41.8842056,-87.6325849,405,3.5,$$
+784,Poor Phil's Shell Bar,139 S Marion St,,,Oak Park,IL,60302,41.885669708252,-87.8029479980469,405,3.5,$$
+785,Cleos,1935 W Chicago Ave,,,Chicago,IL,60622,41.89563,-87.67599,405,4.0,$$
+786,The Kerryman,661 N Clark St,,,Chicago,IL,60654,41.8941723460691,-87.631025205607,404,3.5,$$
+787,Oasis Cafe,21 N Wabash Ave,,,Chicago,IL,60602,41.882755,-87.6260309,404,4.0,$
+788,Kirkwood Bar & Grill,2934 N Sheffield Ave,,,Chicago,IL,60657,41.93548,-87.65431,404,3.5,$$
+789,Leña Brava,900-902 W Randolph St,,,Chicago,IL,60607,41.88465,-87.65007,403,4.0,$$$
+790,Luke's Lobster Chicago City Hall,134 N LaSalle St,,,Chicago,IL,60602,41.8840133613437,-87.6329983558197,403,4.5,$$
+791,The Breakfast Club and Grill,1381 W Hubbard St,,,Chicago,IL,60642,41.8897408,-87.6620571,403,3.5,$$
+792,Fireplace Inn,1448 N Wells St,,,Chicago,IL,60610,41.9091339111328,-87.6350021362305,402,3.0,$$
+793,Silom 12,1846-48 N Milwaukee Ave,Ste 48,,Chicago,IL,60647,41.91487,-87.68488,402,4.0,$$
+794,Chicago's Dog House,816 W Fullerton Ave,,,Chicago,IL,60614,41.9255849,-87.6492199,402,4.0,$
+795,Taco Maya,8610 W Golf Rd,,,Niles,IL,60714,42.0546110159362,-87.8407204530186,402,4.0,$
+796,L' Patron Tacos,3749 W Fullerton Ave,,,Chicago,IL,60647,41.92424,-87.72135,401,4.0,$$
+797,Urban Vegan,1601 W Montrose Ave,,,Chicago,IL,60613,41.9614372155492,-87.669335813659,399,4.0,$$
+798,Pearl's Southern Comfort,5352 N Broadway St,,,Chicago,IL,60640,41.9797154720227,-87.660177473124,399,4.0,$$
+799,Macku Sushi,2239 N Clybourn Ave,,,Chicago,IL,60614,41.92255,-87.66521,398,4.0,$$$
+800,Tufano's Vernon Park  Tap,1073 W Vernon Park Pl,,,Chicago,IL,60607,41.87279,-87.654,398,4.0,$$
+801,Dolo Restaurant and Bar,2222 S Archer Ave,,,Chicago,IL,60616,41.85256,-87.63604,397,4.0,$$
+802,"Table, Donkey and Stick",2728 W Armitage Ave,,,Chicago,IL,60647,41.91775,-87.695965,396,4.0,$$
+803,Joe's On Weed St,940 W Weed St,,,Chicago,IL,60642,41.9098573,-87.6529298,395,3.0,$$
+804,Amitabul,6207 N Milwaukee Ave,,,Chicago,IL,60646,41.99416,-87.78439,395,4.5,$$
+805,Andy's Jazz Club,11 E Hubbard St,Ste 1,,Chicago,IL,60611,41.88986,-87.62743,395,3.5,$$
+806,Maharaja,9765 W Higgins Rd,,,Rosemont,IL,60018,41.9942591,-87.8699678,395,3.5,$$
+807,Smylie Brothers Brewing Co,1615 Oak Ave,,,Evanston,IL,60201,42.0476251977623,-87.686629694427,395,3.5,$$
+808,Kurah Mediterranean,1355 S Michigan Ave,,,Chicago,IL,60605,41.8641894688991,-87.6238789171966,394,4.0,$$
+809,Bulerias Tapas Bar,3656 N Ashland Ave,,,Chicago,IL,60613,41.94865,-87.66928,394,3.5,$$
+810,Giordano's,6314 S Cicero Ave,,,Chicago,IL,60638,41.7778719103997,-87.742697722154,393,3.5,$$
+811,John Barleycorn,3524 N Clark St,,,Chicago,IL,60657,41.9461133,-87.6558265,393,2.0,$$
+812,Sayat Nova,157 E Ohio St,,,Chicago,IL,60611,41.8923110961914,-87.6232223510742,393,3.5,$$
+813,Pizza Metro,1707 W Division St,,,Chicago,IL,60622,41.90299,-87.67024,393,3.5,$
+814,Heaven on Seven Wabash,111 N Wabash Ave,,,Chicago,IL,60602,41.88347,-87.62575,392,4.0,$$
+815,Pizza Art Cafe,4658 N Rockwell St,,,Chicago,IL,60625,41.96651,-87.69399,392,3.5,$$
+816,Five Roses Pub,5509 Park Pl,,,Rosemont,IL,60018,41.9790911194543,-87.8680728375038,392,3.0,$$
+817,Delia's Kitchen,1034 W Lake St,,,Oak Park,IL,60301,41.8887977515979,-87.8019235576042,391,4.0,$$
+818,Tanoshii,5547 N Clark St,,,Chicago,IL,60640,41.9831199645996,-87.6683349609375,391,4.0,$$$
+819,Protein Bar,235 S Franklin St,,,Chicago,IL,60606,41.8790123356902,-87.6350229818467,391,4.0,$
+820,Enso Sushi & Bar,1613 N Damen Ave,,,Chicago,IL,60647,41.9107586,-87.6773651,390,4.0,$$
+821,Portillo's Hot Dogs,8832 W Dempster St,,,Niles,IL,60714,42.040269483884,-87.8463685512543,390,3.5,$
+822,Coco Pazzo,300 W Hubbard St,,,Chicago,IL,60654,41.890148203883,-87.6357354950368,390,4.0,$$$
+823,Park & Field,3509 Fullerton,,,Chicago,IL,60647,41.92433,-87.71428,390,4.0,$$
+824,Bridgeport Coffee,3101 S Morgan St,,,Chicago,IL,60608,41.8378601074219,-87.6508483886719,389,4.0,$
+825,Mt. Everest Restaurant,630 Church St,,,Evanston,IL,60201,42.0479784,-87.6802639,389,4.0,$$
+826,Rockwell's Neighborhood Grill,4632 N Rockwell St,,,Chicago,IL,60625,41.96587,-87.6939699,389,4.0,$$
+827,Old Crow Smokehouse,3506 N Clark St,,,Chicago,IL,60657,41.9458068,-87.6555576,389,3.0,$$
+828,County Barbeque,1352 W Taylor St,,,Chicago,IL,60607,41.86958,-87.66115,389,4.0,$$
+829,Maggiano's Little Italy,4999 Old Orchard Shopping Ctr,Space #A28,,Skokie,IL,60077,42.057111196051,-87.748595669029,388,3.5,$$
+830,Marie's Pizza & Liquors,4127 W Lawrence Ave,,,Chicago,IL,60630,41.96795,-87.73144,388,3.5,$$
+831,Fabulous Freddies Italian Eatery,701 W 31st St,,,Chicago,IL,60616,41.8377391351096,-87.6439815149679,388,3.5,$
+832,Lalo's Mexican Restaurant,733 W Maxwell St,,,Chicago,IL,60607,41.864566,-87.646444,387,2.5,$$
+833,Boba Burger,8530 Waukegan Rd,,,Morton Grove,IL,60053,42.03651,-87.8,387,4.5,$
+834,Pueblo Nuevo,4342 N Central Ave,,,Chicago,IL,60634,41.960272,-87.76744,387,4.5,$
+835,Aroy Thai Restaurant,4654 N Damen Ave,,,Chicago,IL,60625,41.966782,-87.679292,387,4.0,$$
+836,Nando Milano Trattoria,2114 W Division St,,,Chicago,IL,60622,41.90344,-87.68041,387,4.0,$$
+837,Federales,180 North Morgan St,,,Chicago,IL,60607,41.8853279685051,-87.6521678392682,387,3.5,$$
+838,Ram Restaurant & Brewhouse,9520 Higgins Rd,,,Rosemont,IL,60018,41.9931305883555,-87.8633337489561,387,3.5,$$
+839,The Crab Pad,2529 N Milwaukee Ave,,,Chicago,IL,60647,41.92744,-87.70424,386,4.5,$$
+840,Penumbra,3309 W Fullerton Ave,,,Chicago,IL,60647,41.92445,-87.710933,386,5.0,$$
+841,MAD Social,1140 W. Madison St,,,Chicago,IL,60607,41.88187,-87.65598,386,4.0,$$
+842,Ceres Cafe,141 W Jackson Blvd,,,Chicago,IL,60604,41.8780574,-87.6322115,385,4.0,$$
+843,Leona's Pizza & Italian Restaurant,6935 N Sheridan Rd,,,Chicago,IL,60626,42.0077681,-87.6612341,385,2.5,$$
+844,Scratch Kitchen and Lounge,7445 W Madison St,,,Forest Park,IL,60130,41.8796549,-87.81171,385,4.0,$$
+845,Taco In A Bag,4603 N Lincoln Ave,,,Chicago,IL,60625,41.9650957935014,-87.6860730074457,385,4.0,$
+846,Oyster Bah,1962 N Halsted,Fl 1,,Chicago,IL,60614,41.91777,-87.64887,384,4.0,$$
+847,Cafe Bionda,1924 S State St,,,Chicago,IL,60616,41.8563207,-87.6272949,384,3.5,$$
+848,Celeste,111 W Hubbard St,,,Chicago,IL,60654,41.889783,-87.631672,384,3.5,$$
+849,Ukai Japanese Restaurant,1059 W Belmont Ave,,,Chicago,IL,60657,41.9396951,-87.6561638,384,4.0,$$
+850,Silver Spoon Thai Restaurant,710 N Rush St,,,Chicago,IL,60611,41.8953475952148,-87.6257705688477,383,3.0,$
+851,Dublin Bar & Grill,1050 N State St,,,Chicago,IL,60610,41.901926,-87.628158,383,3.5,$$
+852,West Town Bakery & Diner,1916 W Chicago Ave,,,Chicago,IL,60622,41.896214,-87.675423,382,3.5,$$
+853,Flying Saucer,1123 N California Ave,,,Chicago,IL,60622,41.9017608,-87.6966653,382,3.5,$$
+854,Rolls N Bowls,4635 N Lincoln Ave,,,Chicago,IL,60625,41.965995,-87.6866153,382,4.0,$$
+855,Forbidden Root,1746 W Chicago Ave,,,Chicago,IL,60622,41.8962684049794,-87.6713814117853,382,4.5,$$
+856,New York Bagel & Bialy,4714 W Touhy Ave,,,Lincolnwood,IL,60712,42.0119049,-87.7462107,382,4.5,$
+857,Himalayan Restaurant,8265 W Golf Rd,,,Niles,IL,60714,42.052717,-87.833858,380,4.0,$$
+858,Cafe Spiaggia,980 N Michigan Ave,Fl 2,,Chicago,IL,60611,41.9007042247792,-87.624384276474,380,4.0,$$$
+859,Morton's The Steakhouse,65 E Wacker Pl,,,Chicago,IL,60601,41.8866557925648,-87.625533703067,380,4.0,$$$
+860,Gino's East,9501 W Devon Ave,,,Rosemont,IL,60018,41.99538,-87.86328,379,3.5,$$
+861,Hai Yen Restaurant,1055 W Argyle St,,,Chicago,IL,60640,41.9731281,-87.6567601,379,4.0,$$
+862,Panino's,3704 N Broadway St,,,Chicago,IL,60613,41.949337,-87.649211,379,4.0,$$
+863,Andy's Thai Kitchen,946 W Wellington Ave,,,Chicago,IL,60657,41.9363994270676,-87.6534727784813,379,3.5,$$
+864,Bar Louie - Printers Row,47 W Polk St,,,Chicago,IL,60605,41.8720534377198,-87.6288966064385,378,3.5,$$
+865,Paddy Long's,1028 W Diversey Pkwy,,,Chicago,IL,60614,41.93287,-87.65504,378,4.0,$$
+866,Epic Burger,1000 W North Ave,,,Chicago,IL,60642,41.9118366957317,-87.6543775534424,378,3.5,$$
+867,Jellyfish,1009 N Rush St,,,Chicago,IL,60611,41.9011306762695,-87.6273345947266,378,3.5,$$$
+868,Margaritaville - Chicago,700 E Grand Ave,Ste 118,,Chicago,IL,60611,41.8919832,-87.609144,377,3.0,$$
+869,Portillo's Hot Dogs,9400 Skokie Blvd,,,Skokie,IL,60077,42.0519352775614,-87.7473856508731,377,4.0,$
+870,Thai Lagoon,2322 W North Ave,,,Chicago,IL,60647,41.9106,-87.68575,377,3.5,$
+871,Jess Cafe,5819 W Belmont Ave,,,Chicago,IL,60634,41.93825,-87.77216,377,4.0,$
+872,Letizia's Natural Bakery,2144 W Division St,,,Chicago,IL,60622,41.9034199,-87.68154,376,4.0,$
+873,Renga Tei,3956 W Touhy Ave,,,Lincolnwood,IL,60712,42.012037849397,-87.728203010743,375,4.0,$$
+874,Thai Bowl,1049 W Taylor St,,,Chicago,IL,60607,41.8692207336426,-87.6530456542969,375,3.5,$
+875,McGee's,950 W Webster Ave,,,Chicago,IL,60614,41.9218605,-87.6531464,375,3.0,$$
+876,Mother Hubbard's,5 W Hubbard St,,,Chicago,IL,60654,41.88984,-87.62835,375,3.0,$$
+877,Wasabi Cafe,3908 N Lincoln Ave,,,Chicago,IL,60613,41.9525207,-87.6777953,374,3.5,$$
+878,Five Star Bar,1424 W Chicago Ave,,,Chicago,IL,60642,41.896292,-87.663504,374,3.5,$$
+879,Hash,1357 N Western Ave,,,Chicago,IL,60622,41.90655,-87.68673,374,4.0,$$
+880,Prost,2566 N Lincoln Ave,,,Chicago,IL,60614,41.9284362792969,-87.6533889770508,373,3.5,$$
+881,Blue Door Farm Stand,2010 N Halsted St,,,Chicago,IL,60614,41.9185554983396,-87.648811124884,372,4.0,$$
+882,Avenue Ale House,825 S Oak Park Ave,,,Oak Park,IL,60304,41.873291015625,-87.7943801879883,372,3.0,$$
+883,En Hakkore 2.0,1467 N Milwaukee Ave,,,Chicago,IL,60622,41.90869,-87.6743,372,4.5,$$
+884,Blaze Fast-Fire'd Pizza,953 W Belmont Ave,,,Chicago,IL,60657,41.9398510944604,-87.653542868793,371,4.0,$
+885,O'Donovan's,2100 W Irving Park Rd,,,Chicago,IL,60618,41.95442,-87.68135,371,3.5,$$
+886,Revival Food Hall,125 S Clark St,,,Chicago,IL,60603,41.87979,-87.63051,371,4.0,$$
+887,La Cocina Boricua de la Familia Galarza,2420 W Fullerton Ave,,,Chicago,IL,60647,41.9250421952759,-87.6884892983747,370,4.5,$$
+888,Leghorn Chicken,959 N Western Ave,,,Chicago,IL,60622,41.89925,-87.6866,370,3.5,$$
+889,Sushi Tokoro,4750 N Western Ave,,,Chicago,IL,60625,41.9683599,-87.68925,370,4.0,$$
+890,Graziano's,5960 W Touhy Ave,,,Niles,IL,60714,42.01249,-87.77668,369,3.5,$$
+891,Cupitol Coffee & Eatery,812 Grove St,,,Evanston,IL,60201,42.0453589918483,-87.6825456588955,369,4.0,$$
+892,Revolucion Steakhouse,3443 N Broadway,,,Chicago,IL,60657,41.9446868896484,-87.6453628540039,368,3.5,$$
+893,Local Option,1102 W Webster Ave,,,Chicago,IL,60614,41.921953,-87.656166,368,3.5,$$
+894,Chick-fil-A,30 E Chicago Ave,,,Chicago,IL,60611,41.896885,-87.627043,368,4.0,$
+895,Big Bricks,3832 N Lincoln Ave,,,Chicago,IL,60613,41.95127,-87.67713,367,3.5,$$
+896,Ben's Noodles and Rice,1139 W Bryn Mawr Ave,,,Chicago,IL,60660,41.9835028,-87.6593878,367,4.0,$
+897,Rainforest Cafe,605 N Clark St,,,Chicago,IL,60654,41.8926799714009,-87.6307685673237,367,2.5,$$
+898,Chop Shop,2033 W North Ave,,,Chicago,IL,60647,41.9101308614896,-87.6787804455808,366,3.5,$$
+899,Bacino's of Lincoln Park,2204 N Lincoln Ave,,,Chicago,IL,60614,41.9220898692102,-87.6441773455396,366,4.0,$$
+900,FatDuck Tavern & Grill,7218 Madison St,,,Forest Park,IL,60130,41.8793287,-87.8056663,366,3.5,$$
+901,Community Tavern,4038 N Milwaukee Ave,,,Chicago,IL,60641,41.9540099,-87.74883,366,4.5,$$$
+902,Porkchop,1516 E Harper Ct,,,Chicago,IL,60615,41.8002681913942,-87.5887800486931,365,2.5,$$
+903,Big Guys Sausage Stand,7021 Roosevelt Rd,,,Berwyn,IL,60402,41.8649275549636,-87.8000421077013,364,4.5,$
+904,Moretti's Ristorante & Pizzeria,6727 N Olmsted Ave,,,Chicago,IL,60631,42.0028099,-87.81749,363,3.0,$$
+905,Taqueria Traspasada,811 N Ashland Ave,,,Chicago,IL,60622,41.89633,-87.66705,363,4.0,$
+906,BIG & little's Restaurant,1310 N Milwaukee Ave,,,Chicago,IL,60622,41.90535,-87.6700199,363,4.0,$
+907,Earls Kitchen + Bar,1538 N Clybourn Ave,,,Chicago,IL,60642,41.9086332515198,-87.6474467969988,362,4.0,$$
+908,BLVD,817 W Lake St,,,Chicago,IL,60607,41.8854,-87.64823,362,4.0,$$$
+909,The Radler,2375 N Milwaukee Ave,,,Chicago,IL,60647,41.9243702937911,-87.6996474284774,362,4.0,$$
+910,Sushi Mon,2441 N Clark St,,,Chicago,IL,60614,41.9267026,-87.64097,362,4.0,$$
+911,Pot Pan,1362 N Milwaukee Ave,,,Chicago,IL,60642,41.9064909459193,-87.6717038354568,362,3.5,$
+912,Beatnik,1604 W Chicago Ave,,,Chicago,IL,60622,41.8962675288597,-87.6676179198911,362,4.0,$$
+913,Asian Outpost,1315 S Wabash Ave,,,Chicago,IL,60605,41.865437,-87.6255416320581,362,4.0,$$
+914,Soul Vegetarian East,205 E 75th St,,,Chicago,IL,60619,41.7581789,-87.6195628,362,4.0,$$
+915,Pub Royale,2049 W Division,,,Chicago,IL,60622,41.90286,-87.67916,361,4.0,$$
+916,Frances' Deli,2552 N Clark St,,,Chicago,IL,60614,41.9289801,-87.6426694,361,3.5,$$
+917,Daebak Korean BBQ,2017 S Wells St,Fl 2,,Chicago,IL,60616,41.85477,-87.63257,361,4.0,$$
+918,Sushi Dokku,823 W Randolph St,,,Chicago,IL,60607,41.8841513653687,-87.6484478840348,361,4.0,$$
+919,SP Kebab,6808 N Sheridan Rd,,,Chicago,IL,60626,42.005643,-87.660959,360,4.5,$
+920,Breakfast House,1800 W Grand Ave,,,Chicago,IL,60622,41.8909301757812,-87.6721038818359,360,4.5,$$
+921,Blaze Fast-Fire'd Pizza,227 East Ontario St,,,Chicago,IL,60611,41.89314,-87.62161,360,4.0,$
+922,Stout Barrel House and Pizza,642 N Clark St,,,Chicago,IL,60654,41.8937606811523,-87.6312942504883,359,3.0,$$
+923,Old Irving Brewing,4419 W Montrose Ave,,,Chicago,IL,60641,41.9606817809204,-87.7393777788835,359,4.0,$$
+924,Pizzeria Serio,1708 W Belmont Ave,,,Chicago,IL,60657,41.9399147033691,-87.6715316772461,359,4.0,$$
+925,90 Miles Cuban Cafe,3333 W Touhy Ave,,,Lincolnwood,IL,60712,42.01133,-87.71218,358,3.5,$$
+926,Blue Max Coffee,26 Lathrop Ave,,,Forest Park,IL,60130,41.885883985468,-87.8144727948744,358,4.0,$$
+927,Las Tablas,4920 W Irving Park Rd,,,Chicago,IL,60641,41.95373,-87.750767,357,3.5,$$
+928,Giant,3209 W Armitage Ave,,,Chicago,IL,60647,41.9171,-87.70746,357,4.5,$$$
+929,Dimo's Pizza,1615 N Damen Ave,,,Chicago,IL,60647,41.911037,-87.677126,357,4.0,$
+930,Kitchen 17,3132 N Broadway St,,,Chicago,IL,60657,41.9387532348521,-87.6448537381136,357,4.0,$$
+931,Prairie Moon,1635 Chicago Ave,,,Evanston,IL,60201,42.0473871311662,-87.6788396652074,357,3.5,$$
+932,Blue Door Kitchen & Garden,52 W Elm St,,,Chicago,IL,60610,41.9032749,-87.6304693,357,3.5,$$
+933,El Ranchito Restaurant,2829 N Milwaukee Ave,,,Chicago,IL,60618,41.93276,-87.7129,357,2.0,$
+934,Rosebud Steakhouse,192 E Walton Pl,,,Chicago,IL,60611,41.9000993,-87.6220543,355,4.0,$$$
+935,Philly's Best,907 W Belmont Ave,,,Chicago,IL,60657,41.93966,-87.65183,355,3.5,$
+936,Hot Woks Cool Sushi,3930 N Pulaski Rd,,,Chicago,IL,60641,41.9528312683105,-87.7278366088867,355,3.5,$$
+937,Frontera Fresco,111 N State St,,Macy’s Seven on State,Chicago,IL,60602,41.88421,-87.62738,355,4.0,$
+938,Cross-Rhodes,913 Chicago Ave,,,Evanston,IL,60202,42.03445965927,-87.679331911197,354,4.0,$
+939,Flat Top Grill,707 Church St,,,Evanston,IL,60201,42.0485870212256,-87.6811347296812,354,3.0,$$
+940,Le Peep Restaurant,827 Church St,,,Evanston,IL,60201,42.0485988842728,-87.6829683774751,354,3.5,$$
+941,Roti Modern Mediterranean,33 N Dearborn,,,Chicago,IL,60602,41.88273,-87.62906,353,4.0,$
+942,Chef Shangri-La,7930 W 26th St,,,North Riverside,IL,60546,41.8431358337402,-87.8222961425781,353,3.5,$$
+943,Pl-zen,1519 W 18th St,,,Chicago,IL,60608,41.8575592041016,-87.6645660400391,353,4.0,$$
+944,Chez Moi,2100 N Halsted St,,,Chicago,IL,60614,41.920093536377,-87.6487808227539,353,4.0,$$
+945,The Grind,4613 N Lincoln Ave,,,Chicago,IL,60625,41.9654579162598,-87.6860885620117,352,4.5,$
+946,A Tavola,2148 W Chicago Ave,,,Chicago,IL,60622,41.8960999,-87.68141,352,4.0,$$$
+947,The Cellar at The Stained Glass,820 Clark St,,,Evanston,IL,60201,42.049609935729,-87.6831712187908,352,4.0,$$
+948,Allende Restaurant,2408 N Lincoln Ave,,,Chicago,IL,60614,41.9257122,-87.6493817,352,4.0,$
+949,Chez Joel Bistro,1119 W Taylor St,,,Chicago,IL,60607,41.86921,-87.65507,351,4.5,$$$
+950,Wrigley BBQ,3555 N Broadway,,,Chicago,IL,60657,41.9470478331265,-87.6469349170569,351,4.0,$$
+951,O'Shaughnessy's Public House,4557 N Ravenswood Ave,,,Chicago,IL,60640,41.965038275057,-87.673861454871,351,3.5,$$
+952,Chicago Bagel Authority,955 W Belmont Ave,,,Chicago,IL,60657,41.939794,-87.653737,351,4.0,$
+953,Udupi Palace Restaurant,2543 W Devon Ave,,,Chicago,IL,60659,41.99739,-87.69398,351,3.5,$$
+954,Dicks Last Resort,315 N Dearborn St,,,Chicago,IL,60654,41.8879170470673,-87.6292685421475,351,3.0,$$
+955,Raj Darbar,2660 N Halsted St,,,Chicago,IL,60614,41.9309,-87.6493,351,3.5,$$
+956,5 Rabanitos Restaurante and Taqueria,1758 W 18th St,,,Chicago,IL,60608,41.857970649612,-87.6709524169564,351,4.0,$$
+957,Holiday Club,4000 N Sheridan Rd,,,Chicago,IL,60613,41.9546795826896,-87.6547380163889,351,3.5,$$
+958,Rajun Cajun,1459 E 53rd St,,,Chicago,IL,60615,41.79923,-87.58935,350,3.5,$
+959,Buffalo Wings & Rings,3434 S Halsted St,,,Chicago,IL,60608,41.831629,-87.6462546,350,3.0,$$
+960,Todoroki,526 Davis St,,,Evanston,IL,60201,42.045817,-87.679158,350,3.0,$$
+961,Bernie's,660 N Orleans St,,,Chicago,IL,60654,41.8941497802734,-87.6373977661133,350,3.5,$$
+962,Bellwether Meeting House & Eatery,302 E Illinois St,,,Chicago,IL,60611,41.8911629,-87.6198906,350,3.5,$$
+963,El Carrito,6019 N Lincoln Ave,,,Chicago,IL,60659,41.9907368061156,-87.7076021281604,349,4.0,$
+964,Santorini,800 W Adams St,,,Chicago,IL,60607,41.879308,-87.647579,348,3.5,$$
+965,Pizza Capri,1501 E 53rd St,,,Chicago,IL,60615,41.7993202209473,-87.588737487793,348,3.5,$$
+966,Mr Brown's Lounge,2301 W Chicago Ave,,,Chicago,IL,60612,41.8956672160463,-87.6845125490738,348,3.5,$$
+967,D'amato's Bakery,1124 W Grand Ave,,,Chicago,IL,60622,41.891188857475,-87.6557081343533,348,4.5,$
+968,Pat's Pizza,2679 N Lincoln Ave,,,Chicago,IL,60614,41.93083,-87.65579,348,4.0,$$
+969,McDonald's,600 N Clark,,,Chicago,IL,60610,41.89279,-87.63152,348,3.0,$
+970,Weather Mark Tavern,1503 S Michigan Ave,,,Chicago,IL,60605,41.861839,-87.623558,347,3.5,$$
+971,Tilted Kilt Pub & Eatery,17 N Wabash,2nd Fl,,Chicago,IL,60602,41.88268,-87.62573,347,2.5,$$
+972,Blowfish Contemporary Sushi,1131 W Bryn Mawr Ave,,,Chicago,IL,60660,41.9836004823446,-87.6593112945557,347,4.0,$$
+973,Pearl's Place,3901 S Michigan Ave,,,Chicago,IL,60653,41.8235178493493,-87.6227937306885,347,3.5,$$
+974,Bottled Blonde Chicago,504 N Wells St,,,Chicago,IL,60654,41.891031,-87.6342254,346,2.5,$$
+975,Corridor Brewery & Provisions,3446 N Southport,,,Chicago,IL,60657,41.94474,-87.66429,346,4.0,$$
+976,Good Stuff Eatery,22 S Wabash Ave,,,Chicago,IL,60603,41.881381,-87.626695,346,3.5,$$
+977,Gullivers Pizza and Pub,2727 W Howard St,,,Chicago,IL,60645,42.019394,-87.698325,346,3.5,$$
+978,Old Jerusalem,1411 N Wells St,,,Chicago,IL,60610,41.90783,-87.63442,345,4.0,$$
+979,Russell's Barbecue,1621 N Thatcher Ave,,,Elmwood Park,IL,60707,41.90948,-87.823752,345,3.0,$
+980,Francesca's On Chestnut,200 E Chestnut St,,,Chicago,IL,60611,41.8985615,-87.6213982,345,4.0,$$
+981,Dengeos Restaurant,3301 Main St,,,Skokie,IL,60076,42.0333337934828,-87.711312299331,345,4.0,$
+982,Essence of India,4601 N Lincoln Ave,,,Chicago,IL,60625,41.96517,-87.6859,345,3.5,$$
+983,Everest,425 S Financial Pl,Fl 40,,Chicago,IL,60605,41.8756347,-87.6330489012234,344,4.0,$$$$
+984,Randolph Tavern,188 W Randolph St,,,Chicago,IL,60601,41.8846111655354,-87.6337068903127,344,3.0,$$
+985,Bienmesabe,1637 W Montrose Ave,,,Chicago,IL,60613,41.9614551,-87.670454,343,4.0,$$
+986,Fulton Market Kitchen,311 North Sangamon,,,Chicago,IL,60607,41.887184,-87.650678,343,4.0,$$$
+987,Broken English Taco Pub - Lincoln Park,2576 N. Lincoln Ave,,,Chicago,IL,60614,41.92865,-87.65352,343,4.0,$$
+988,Little Sheep Mongolian Hot Pot,2342 S Wentworth Ave,,,Chicago,IL,60616,41.8498034592167,-87.6320048336464,342,4.0,$$
+989,Nando's PERi-PERi,22 S Wabash Ave,Ste B1,,Chicago,IL,60603,41.8812209,-87.6263332,342,4.0,$$
+990,That Little Mexican Cafe,1010 Church St,,,Evanston,IL,60201,42.0484530345937,-87.6857702477136,342,3.5,$$
+991,El Ranchito,4651 N Clark St,,,Chicago,IL,60640,41.9667814,-87.6669466,341,2.0,$
+992,Palace Grill,1408 W Madison St,,,Chicago,IL,60607,41.88178,-87.66248,341,4.5,$
+993,Naf Naf Grill,5716 W Touhy Ave,,,Niles,IL,60714,42.0120319,-87.7706324,340,3.5,$$
+994,Rickshaw Republic,2312 N Lincoln Ave,,,Chicago,IL,60614,41.92388,-87.64711,340,4.0,$$
+995,Eduardo's Enoteca,1212 N Dearborn St,,,Chicago,IL,60610,41.90439,-87.63043,340,4.0,$$
+996,Nicksons Eatery,30 S La Grange Rd,,,La Grange,IL,60525,41.8145499,-87.8700999,340,4.0,$$
+997,Munch,104 N Marion St,,,Oak Park,IL,60301,41.8875807,-87.8022251,340,4.0,$$
+998,Carnitas Uruapan,1725 W 18th St,,,Chicago,IL,60608,41.857612801225,-87.669703625051,339,4.5,$
+999,Juno,2638 N Lincoln Ave,,,Chicago,IL,60614,41.9297369,-87.6552049,339,4.0,$$$
